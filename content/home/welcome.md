@@ -13,4 +13,4 @@ design:
   columns: "1"
 hero_media: welcome.jpg
 ---
-The SHAPE (Sustainability at the intersection of Hazards, Agriculture, Policy and the Environment) Research Group is led by Dr. Katherine Nelson at Kansas State University.
+The SHAPE (Sustainability at the intersection of Hazards, Agriculture, Policy and the Environment) Research Group at Kansas State University, led by Dr. Katherine Nelson, examines how policies and society interact with the environment to alter the sustainability of agricultural systems and systems impacted by natural hazards.
