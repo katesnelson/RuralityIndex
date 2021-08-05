@@ -10,7 +10,7 @@ social:
     icon: github
 superuser: false
 user_groups:
-  - Students
+  - Alumni
 ---
 
 
