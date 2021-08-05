@@ -1,73 +1,39 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+title: Katherine S Nelson
+role: "Assistant Professor "
+bio: My research interests include landscape diversity, agricultural adaptation,
+  strategic retreat, vulnerability assessment, and scaling relationships.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+  - Adaptation;LandscapeDiversity;StrategicRetreat;RuralSustainbility;ScalingRelationships
+social:
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/GeorgeCushen
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - display:
+      header: false
+    link: https://github.com/katesnelson
+    icon_pack: ai
+    icon: github
+organizations:
+  - name: Kansas State University
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:test@example.org'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: PhD in Artificial Intelligence
+      institution: Stanford University
+      year: 2012
+    - course: MEng in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2009
+    - course: BSc in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2008
 email: ""
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+superuser: true
 user_groups:
-- Researchers
+  - Researchers
+highlight_name: false
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Katherine (Kate) Nelson is an assistant professor of natural-society interactions in the Department of Geography and Geospatial Sciences at Kansas State University. Her research interests include landscape diversity, agricultural adaptation, strategic retreat, vulnerability assessment, and scaling relationships. She leads the SCALes research group, which examines varying aspects of community and agricultural landscape sustainability ranging from equity of strategic retreat policy implementation, to the relationship between crop diversity and crop yields, to rural sustainability assessment.
