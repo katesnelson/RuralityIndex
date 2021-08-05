@@ -1,7 +1,7 @@
 ---
 title: Michael Molloy
 role: Former Research Assistant
-avatar_filename: ""
+avatar_filename: michael-malloy.jpg
 social: []
 superuser: false
 ---
