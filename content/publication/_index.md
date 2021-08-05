@@ -1,18 +1,15 @@
 ---
 view: 4
-title: Landscape complexity and US crop production
+title: Publications
 publication_types:
-  - "2"
-authors:
-  - KS Nelson
-  - EK Burchfield
-doi: https://doi.org/10.1038/s43016-021-00281-1
-publication: Nature Food
+  - "0"
+authors: []
+doi: ""
+publication: ""
 header:
   caption: ""
   image: ""
-featured: true
-tags:
-  - landscape diversity
+featured: false
+tags: []
 date: 2021-08-05T20:12:15.359Z
 ---
