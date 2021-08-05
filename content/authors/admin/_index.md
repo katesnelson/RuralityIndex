@@ -15,8 +15,13 @@ social:
   - display:
       header: false
     link: https://github.com/katesnelson
-    icon_pack: ai
+    icon_pack: fab
     icon: github
+  - display:
+      header: false
+    link: mailto:ksnelson@ksu.edu
+    icon_pack: far
+    icon: envelope
 organizations:
   - name: Kansas State University
 education:
