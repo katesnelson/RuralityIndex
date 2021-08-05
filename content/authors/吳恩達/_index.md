@@ -1,75 +1,23 @@
 ---
-# Display name
-title: 吳恩達
-
-# Username (this should match the folder name)
-authors:
-- 吳恩達
-
-# Is this the primary user of the site?
+title: Jean Ribert Francois
+role: Graduate Research Assistant
+avatar_filename: jrf_bio.jpeg
+organizations: []
 superuser: false
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+authors:
+  - 吳恩達
+bio: My research interests include rural community development and change and
+  transformation in community-based systems.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+  - Rural community development
+social: []
 education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:test@example.org'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+  courses: []
 email: ""
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+  - Researchers
+  - Visitors
 ---
+Jean Ribert Francoisis a PhD student in the Department of Geography and Geospatial Sciences at Kansas State University. He is currently working on research related to landscape complexity and agricultural production. He is interested in rural community development and sustainability and wants to use adapted approaches to understand change and transformation in community-based systems (e.g., farming systems). His bachelor’s degree was in Agricultural Economics and Rural Development (College of Agronomy and Veterinary Medicine / State University of Haiti) and he got his master’s degree in Family, Youth and Community Sciences (College of Agriculture and Life Sciences / University of Florida). His program was funded by USAID through their Support to Agricultural Research and Development (SARD) project in Haiti. His research project examined mechanisms by which family, community, and society create advantages and/or disadvantages for young people coming from an agricultural background and how their life aspirations are impacted.
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+<!--EndFragment-->
