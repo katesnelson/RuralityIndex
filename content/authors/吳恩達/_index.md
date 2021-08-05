@@ -1,7 +1,7 @@
 ---
 title: Jean Ribert Francois
 role: Graduate Research Assistant
-avatar_filename: jrf_bio.jpg
+avatar_filename: avatar.jpg
 organizations: []
 superuser: false
 authors:
