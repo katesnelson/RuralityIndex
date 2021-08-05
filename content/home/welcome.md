@@ -6,11 +6,10 @@ widget: hero
 widget_id: home
 headless: true
 weight: 10
-title: SHAPE
-subtitle: Sustainability at the intersection of Hazards, Agriculture, Policy and
-  the Environment
+title: SCALes
+subtitle: Sustainability of Communities and Agricultural Landscapes
 design:
   columns: "1"
 hero_media: welcome.jpg
 ---
-The SHAPE (Sustainability at the intersection of Hazards, Agriculture, Policy and the Environment) Research Group at Kansas State University, led by Dr. Katherine Nelson, examines how policies and society interact with the environment to alter the sustainability of agricultural systems and systems impacted by natural hazards.
+The SCALes (**S**ustainability of **C**ommunities and **A**gricultural **L**andscap**es**) Research Group at Kansas State University examines the joint influences of environmental hazards, land use, and socioeconomic conditions in socioenvironmental systems. Our goal is to identify policy and practice solutions that promote social equity and the preservation of natural resources and ecosystems for future generations.
