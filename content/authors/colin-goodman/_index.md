@@ -9,6 +9,8 @@ social:
     icon_pack: fab
     icon: github
 superuser: false
+user_groups:
+  - Students
 ---
 
 
