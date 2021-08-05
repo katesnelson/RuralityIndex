@@ -5,7 +5,11 @@ avatar_filename: hat.jpeg
 bio: My research interests include landscape diversity, agricultural adaptation,
   strategic retreat, vulnerability assessment, and scaling relationships.
 interests:
-  - Adaptation;LandscapeDiversity;StrategicRetreat;RuralSustainbility;ScalingRelationships
+  - Adaptation
+  - Landscape Diversity
+  - Strategic Retreat
+  - Rural Sustainability
+  - Scaling Relationships
 social:
   - icon: google-scholar
     icon_pack: ai
@@ -24,7 +28,16 @@ organizations:
   - name: Kansas State University
     url: https://www.k-state.edu/geography/
 education:
-  courses: []
+  courses:
+    - course: PhD Environmental Engineering
+      institution: Vanderbilt University
+      year: 2018
+    - course: MS Environmental Engineering
+      institution: Washington University in St. Louis
+      year: 2009
+    - course: BS Environmental Engineering
+      institution: University of Oklahoma
+      year: 2006
 email: ""
 superuser: true
 user_groups:
