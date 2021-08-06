@@ -1,7 +1,7 @@
 ---
 title: Katherine S Nelson
 role: "Assistant Professor "
-avatar_filename: avatar.png
+avatar_filename: avatar.jpg
 bio: My research interests include landscape diversity, agricultural adaptation,
   strategic retreat, vulnerability assessment, and scaling relationships.
 interests:
