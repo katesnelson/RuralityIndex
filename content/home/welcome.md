@@ -12,7 +12,7 @@ design:
   columns: "1"
   background:
     image: banner.jpg
-    text_color_light: true
+    text_color_light: false
     image_darken: 0.5
 hero_media: welcome.jpg
 ---
