@@ -24,7 +24,6 @@ content:
   - Undergrad Students
   - Administration
   - Visitors
-  - Alumni
   - Collaborators
 design:
   show_interests: false
