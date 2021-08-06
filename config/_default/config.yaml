@@ -7,14 +7,7 @@ title: SCALes - KSU # Website name
 baseurl: '' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
-# Your choice of color theme
-theme: minimal
-# Automatically change light/dark mode based on user's preference?
-day_night: true
-# Your choice of font
-font: ''  # No value = inherit font from color theme pack (e.g. minimal)
-# Your choice of font size
-font_size: L
+
 
 ############################
 ## LANGUAGE
