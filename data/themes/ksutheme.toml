@@ -1,5 +1,5 @@
 # Theme metadata
-name = "Minimal"
+name = "ksutheme"
 
 # Is theme light or dark?
 light = true
@@ -11,7 +11,7 @@ primary = "#D1D1D1"
 menu_primary = "#512888"
 menu_text = "#FFFFFF"
 menu_text_active = "#A7A7A7"
-menu_title = "#000000"
+menu_title = "#FFFFFF"
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"
