@@ -1,6 +1,6 @@
 ---
 title: Katherine S Nelson
-role: "Assistant Professor "
+role: Assistant Professor, SCALes PI
 avatar_filename: avatar.jpg
 bio: My research interests include landscape diversity, agricultural adaptation,
   strategic retreat, vulnerability assessment, and scaling relationships.
@@ -41,7 +41,7 @@ education:
 email: ""
 superuser: true
 user_groups:
-  - Researchers
+  - Current
 highlight_name: false
 ---
 Katherine (Kate) Nelson is an assistant professor of natural-society interactions in the Department of Geography and Geospatial Sciences at Kansas State University. Her research interests include landscape diversity, agricultural adaptation, strategic retreat, vulnerability assessment, and scaling relationships. She leads the SCALes research group, which examines varying aspects of community and agricultural landscape sustainability ranging from equity of strategic retreat policy implementation, to the relationship between crop diversity and crop yields, to rural sustainability assessment.
