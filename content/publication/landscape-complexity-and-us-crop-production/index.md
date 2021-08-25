@@ -3,7 +3,8 @@ title: Landscape complexity and US crop production
 publication_types:
   - "2"
 authors:
-  - Katherine S. Nelson and Emily K. Burchfield
+  - Katherine S. Nelson
+  - Emily K. Burchfield
 author_notes:
   - Equal contribution
   - Equal contribution
