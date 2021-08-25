@@ -1,5 +1,5 @@
 ---
-title: Katherine S Nelson
+title: Kate Nelson
 role: Assistant Professor, SCALes PI
 avatar_filename: avatar.jpg
 bio: My research interests include landscape diversity, agricultural adaptation,
