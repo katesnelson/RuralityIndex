@@ -29,4 +29,4 @@ design:
   columns: '1'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+I welcome inquiries from students interested in joining the Department of Geography and Geospatial Sciences at Kansas State University as Masters or Ph.D. students. Students with interests in: geospatial programming and analysis, social vulnerability, community resilience and sustainability, agricultural sustainability, and flood adaptation can contact me at ksnelson@ksu.edu. Prior experience with statistics, programming, or GIS highly preferred.
