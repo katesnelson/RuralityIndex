@@ -18,7 +18,7 @@ abstract: We examine the geographies of agricultural yields in the United
   well-being of the farmers and ecological systems on which agricultural
   production ultimately depends.
 slides: null
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://iopscience.iop.org/article/10.1088/1748-9326/abe88d/pdf
 publication_types:
   - "2"
 authors:
