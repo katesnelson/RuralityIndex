@@ -1,6 +1,6 @@
 ---
 title: Katie Mahlmeister
-role: Former Undergraduate Research Assistant
+role: Undergraduate Research Assistant
 avatar_filename: ""
 social: []
 superuser: false
