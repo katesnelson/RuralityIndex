@@ -23,7 +23,7 @@ publication_types:
   - "2"
 authors:
   - Emily K Burchfield
-  - admin
+  - Katherine Nelson
 author_notes: []
 publication: Environmental Research Letters
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
@@ -46,7 +46,7 @@ image:
   preview_only: false
 date: 2021-08-25T17:01:15.742Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
