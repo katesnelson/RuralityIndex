@@ -34,8 +34,7 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: Differential disadvantages in the distribution of federal aid across
-  three decades of voluntary buyouts in the United States
+title: Problem
 doi: https://doi.org/10.1016/j.gloenvcha.2021.102278
 featured: false
 tags: []
