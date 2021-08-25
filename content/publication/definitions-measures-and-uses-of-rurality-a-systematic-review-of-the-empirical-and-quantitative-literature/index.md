@@ -31,7 +31,7 @@ abstract: Definitions and measures of rurality are important to researchers and
 draft: false
 featured: false
 image:
-  filename: https://ars.els-cdn.com/content/image/1-s2.0-S0743016721000437-gr2.jpg
+  filename: ""
   focal_point: Smart
   preview_only: false
 date: 2021-08-25T17:15:33.851Z
