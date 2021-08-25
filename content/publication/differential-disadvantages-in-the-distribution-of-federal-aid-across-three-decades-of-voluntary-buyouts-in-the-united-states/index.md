@@ -44,7 +44,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: https://ars.els-cdn.com/content/image/1-s2.0-S0959378021000571-gr5.jpg
+  filename: ""
 date: 2021-08-25T17:12:01.245Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
