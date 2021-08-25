@@ -1,6 +1,6 @@
 ---
 title: Colin Goodman
-role: Former Undergraduate Research Assistant
+role: Undergraduate Research Assistant
 avatar_filename: ""
 social:
   - display:
