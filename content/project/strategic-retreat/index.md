@@ -3,7 +3,7 @@ title: Strategic Retreat
 date: 2021-08-06T19:42:55.020Z
 draft: false
 featured: false
-external_link: "#/project/strategic-retreat"
+external_link: "#/projects/strategic-retreat"
 image:
   filename: featured.jpg
   focal_point: Smart
