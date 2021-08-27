@@ -1,7 +1,7 @@
 ---
 title: New Publication in Nature Food
 subtitle: Landscape complexity and US crop yield
-date: 2021-08-05T20:16:15.083Z
+date: 2021-08-27T15:14:45.249Z
 image:
   filename: featured.png
   focal_point: SMART
