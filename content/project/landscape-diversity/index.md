@@ -3,7 +3,7 @@ title: Landscape Diversity
 date: 2021-08-27T14:36:45.034Z
 draft: false
 featured: false
-external_link: none
+external_link: 
 image:
   filename: featured.png
   focal_point: Smart
