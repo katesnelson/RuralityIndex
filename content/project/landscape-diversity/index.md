@@ -1,9 +1,9 @@
 ---
-title: Landscape Diversity
+title: Diversity of Agricultural Landscapes
 date: 2021-08-27T14:36:45.034Z
 draft: false
 featured: false
-external_link: 
+external_link: none
 image:
   filename: featured.png
   focal_point: Smart
