@@ -3,7 +3,7 @@ title: Landscape complexity and US crop production
 publication_types:
   - "2"
 authors:
-  - Katherine S. Nelson
+  - Admin
   - Emily K. Burchfield
 author_notes:
   - Equal contribution
@@ -29,7 +29,9 @@ abstract: Agricultural expansion and intensification have simplified Earth’s
   United States without further extensification or intensification of
   agriculture.
 draft: false
-featured: false
+featured: true
+tags:
+  - diversity
 image:
   filename: ""
   focal_point: Smart
