@@ -50,7 +50,7 @@ subtitle = ""
 - YouTube video of [guest lecture on Urban Flood Adaptation](https://www.youtube.com/watch?v=86s1iNwpShI&feature=youtu.be) for the Natural Resources and Environmental Sciences capstone class at KSU, Fall 2018.  
 - [Example storymap](https://kstate.maps.arcgis.com/apps/MapJournal/index.html?appid=a539f7be4dcd4e499fe4854a0575e631) and getting started tutorial for a GEOG 508 semester project.  
 - Check out these fantastic resources for geospatial programming, modeling, and spatial analysis in R developed by Dr. Burchfield at Emory University [here](https://eburchfield.github.io/programming_resources.html).
-- 
+
 **Courses Taught**
   - *Geographic Information Systems I* (GEOG 508). Fall 2018/2019 & Spring 2019.	Cross-listed graduate and undergraduate introductory course in application of GIS to problem solving.
   - *Research and Professional Development in Geography* (GEOG 821). Fall 2019.	Master’s level introductory seminar on research methods and professionalization in Geography.
