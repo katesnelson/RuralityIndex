@@ -31,6 +31,8 @@ abstract: Voluntary home buyout programs have gained increasing popularity as a
   strategic retreat planning.
 draft: false
 featured: false
+projects:
+  - Strategic Retreat
 image:
   filename: ""
   focal_point: Smart
