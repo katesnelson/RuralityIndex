@@ -44,30 +44,25 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-I've had the privilege to teach at the high school, undergraduate, and graduate levels. From this diverse experience, I've developed a learner-focused teaching style underlain by three core principles:
-1. Students learn best when materials connect to the things they care about. 
-2. Active student participation in the classroom is necessary to engage students.
-3. Regular internal and external assessment is necessary in order to identify what material students are connecting with, and where they are struggling. 
 
-I use place-based teaching as the thread binding these three principles together. By using local examples, experiential field education, and real-world data, students build upon their sense of place to make connections between new material and their existing knowledge.
-
+**Resources**
+- 2018  Gunda, T., Nelson, K., and Patel, N. [Sustainable Development: It’s as easy as F-E-W](https://www.sesync.org/sustainable-development-it%E2%80%99s-as-easy-as-f-e-w-2017-2). Teaching Case Study. National Socio-Environmental Synthesis Center. 
+- YouTube video of [guest lecture on Urban Flood Adaptation](https://www.youtube.com/watch?v=86s1iNwpShI&feature=youtu.be) for the Natural Resources and Environmental Sciences capstone class at KSU, Fall 2018.  
+- [Example storymap](https://kstate.maps.arcgis.com/apps/MapJournal/index.html?appid=a539f7be4dcd4e499fe4854a0575e631) and getting started tutorial for a GEOG 508 semester project.  
+- Check out these fantastic resources for geospatial programming, modeling, and spatial analysis in R developed by Dr. Burchfield at Emory University [here](https://eburchfield.github.io/programming_resources.html).
+- 
 **Courses Taught**
- - *Sustainable Water Resources*, University of Victoria (CIVE340), Fall 2018. Instructor for core undergraduate water resource engineering course. Leading all lectures, in-class activities, homework assignments, and exams. Selected evaluation results (n=48):
-	- 'Overall, the instructor was effective in this course': 60% Excellent, 35% Good.
-	- 'As a result of this course, my interest in the material...': 63% Increased.
-
-**Courses TA'ed**
- - *Ecohydrology*, University of Wisconsin (CEE619), Spring 2016. Developed new module on rainfall-runoff partitioning including student programming exercise simulating banded vegetation dynamics. Lectured on various topics in class and assisted with curriculum design.
- - *Ecohidrologia (Ecohydrology)*, Universidad Nacional de San Luis (Argentina), Spring 2015. Led student development of ecohydrological ‘bucket model’ in programming language R.
+  - *Geographic Information Systems I* (GEOG 508). Fall 2018/2019 & Spring 2019.	Cross-listed graduate and undergraduate introductory course in application of GIS to problem solving.
+  - *Research and Professional Development in Geography* (GEOG 821). Fall 2019.	Master’s level introductory seminar on research methods and professionalization in Geography.
+  - *Sustainability Concepts and Issues* (GEOG 360). Spring 2019/2020, Fall 2021 in-person & Fall 2020, Spring 2021 online. Undergraduate introductory course in sustainability concepts and systems thinking.
+  - *Seminar in Sustainability Science, Thought, and Approaches* (GEOG 833). Spring 2021. Graduate seminar in sustainability science concepts, frameworks, and methods.
+ 
+**Additional Training and Experience**
+- 2017 SELECTED PARTICIPANT in [National Socio-Environmental Synthesis Center (SESYNC)](https://www.sesync.org/) Short Course *Teaching Socio-Environmental Synthesis with Case Studies*. 
+- 2016 CERTIFICATE in College Teaching, [Vanderbilt Center for Teaching] (https://cft.vanderbilt.edu/), Vanderbilt University
+- 2016 Assistant Instructor,  [Geospatial Technologies](http://vanderbilt.edu/gised/?page_id=1108) (K-12 teacher professional development), *Metropolitan Nashville Public Schools*
+- 2006-2008 [National Science Foundation Graduate Teaching Fellow in K-12 Education](http://www.gk12.org/)(part-time teacher), Environmental Science, *Gateway Middle School, St. Louis Public School District*
 
 **Guest Lectures**
- - Lots of streams, not much time or money? Developing & testing analytical tools for evaluating groundwater pumping impacts on streamflow. *Introduction to Watershed Systems* (GEOG 441). University of North Carolina. Virtual lecture during COVID-19.
- - Hydrogeology Field Methods. *Environmental Monitoring and Field Methods* (CE 736). University of Kansas. Virtual lecture during COVID-19.
- - Groundwater, ecosystems, and humans. *Hydrogeology* (EOS 491). University of Victoria.
- - Unsaturated flow. *Hydrogeology* (EPSC 549). McGill University.
- - Ecohydrology. *Hydrogeology* (EPSC 549), McGill University.
- - Hydraulic Properties and Aquifer Testing. *Hydrogeology* (EPSC 549). McGill University.
- - Groundwater and crop yield. *Groundwater and Water Resources* (EPSC 550), McGill University.
- - Food security and environmental sustainability. *Resources & Sustainability* (CHE 390), University of Wisconsin-Baraboo
- - Ecohydrology: Earth science at the intersection of water and life. *Introduction to Environmental Geology* (GLG 135), University of Wisconsin-Baraboo. 
+
 
