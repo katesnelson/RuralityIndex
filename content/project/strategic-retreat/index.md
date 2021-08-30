@@ -10,7 +10,8 @@ links:
 - icon: open-access
   icon_pack: ai
   name: Relevant publications
-  url: tags/strategic-retreat:
+  url: tags/strategic-retreat
+image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
