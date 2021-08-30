@@ -15,11 +15,14 @@ main:
     weight: 50
   - name: Contact
     url: contact
-    weight: 60
+    weight: 80
   - name: Projects
     url: project
     weight: 40
   - name: Teaching
     url: teaching
+    weight: 60
+  - name: Diversity
+    url: diversity
     weight: 70
     
