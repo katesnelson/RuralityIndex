@@ -23,7 +23,7 @@ publication_types:
   - "2"
 authors:
   - Emily K Burchfield
-  - Katherine Nelson
+  - Admin
 author_notes: []
 publication: Environmental Research Letters
 summary: ""
@@ -35,7 +35,8 @@ url_video: ""
 title: Agricultural yield geographies in the United States
 doi: https://doi.org/10.1088/1748-9326/abe88d
 featured: false
-tags: []
+tags:
+  - diversity
 projects: []
 image:
   caption: ""
