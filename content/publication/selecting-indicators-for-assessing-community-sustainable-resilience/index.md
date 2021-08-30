@@ -23,9 +23,7 @@ authors:
   - Admin
   - Hiba Baroud
   - Mark Abkowitz
-author_notes:
-  - Equal Contributions
-  - Equal Contributions
+author_notes: []
 publication: Risk Analysis
 summary: ""
 url_dataset: ""
