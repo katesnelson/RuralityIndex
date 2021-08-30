@@ -27,7 +27,7 @@ publication_types:
   - "2"
 authors:
   - Admin
-  - JaneyV.Camp
+  - Janey V. Camp
 author_notes: []
 publication: Anthropocene
 summary: ""
