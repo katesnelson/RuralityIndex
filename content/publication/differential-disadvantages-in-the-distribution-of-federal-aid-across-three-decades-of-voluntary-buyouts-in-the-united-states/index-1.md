@@ -4,7 +4,7 @@ title: Differential disadvantages in the distribution of federal aid across
 publication_types:
   - "2"
 authors:
-  - Katherine Nelson
+  - Admin
   - Michael Molloy
 doi: https://doi.org/10.1016/j.gloenvcha.2021.102278
 publication: " Global Environmental Change"
