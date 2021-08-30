@@ -37,7 +37,7 @@ publication_short: ""
 url_source: ""
 url_video: ""
 title: Quantifying the Benefits of Home Buyouts for Mitigating Flood Damages
-date:2020-09-01
+date: 2020-09-01
 doi: https://doi.org/10.1016/j.ancene.2020.100246
 featured: false
 tags:
