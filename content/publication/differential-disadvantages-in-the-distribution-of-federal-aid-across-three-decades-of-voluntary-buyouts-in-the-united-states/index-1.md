@@ -30,7 +30,7 @@ abstract: Voluntary home buyout programs have gained increasing popularity as a
   policy and highlight the growing need for social equity consideration in
   strategic retreat planning.
 draft: false
-featured: false
+featured: true
 projects:
   - Strategic Retreat
 image:
