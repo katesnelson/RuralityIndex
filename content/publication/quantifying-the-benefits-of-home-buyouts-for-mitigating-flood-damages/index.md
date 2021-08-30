@@ -22,7 +22,7 @@ abstract: With increasing costs of floods across the globe, interest has grown
   States and beyond. It can be used to make the case for investment in such
   mitigation programs utilizing similarly available data.
 slides: null
-url_pdf: https://iopscience.iop.org/article/10.1088/1748-9326/abe88d/pdf
+url_pdf: 
 publication_types:
   - "2"
 authors:
@@ -37,6 +37,7 @@ publication_short: ""
 url_source: ""
 url_video: ""
 title: Quantifying the Benefits of Home Buyouts for Mitigating Flood Damages
+date:2020-09-01
 doi: https://doi.org/10.1016/j.ancene.2020.100246
 featured: false
 tags:
