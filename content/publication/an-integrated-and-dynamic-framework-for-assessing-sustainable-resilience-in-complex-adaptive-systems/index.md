@@ -25,9 +25,7 @@ authors:
   - Hiba Baroud
   - Mark Abkowitz
   - David Kosson
-author_notes:
-  - Equal Contributions
-  - Equal Contributions
+author_notes: []
 publication: Sustainable and Resilient Infrastructure
 summary: ""
 url_dataset: ""
