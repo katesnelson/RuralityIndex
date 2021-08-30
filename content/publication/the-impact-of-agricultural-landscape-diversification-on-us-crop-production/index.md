@@ -27,9 +27,7 @@ authors:
   - Emily K. Burchfield
   - Admin
   - Kaitlyn Spangler
-author_notes:
-  - Equal Contributions
-  - Equal Contributions
+author_notes: []
 publication: " Agriculture, Ecosystems & Environment"
 summary: ""
 url_dataset: ""
