@@ -1,9 +1,10 @@
 ---
-title: Welcome to our newest member!
+title: New Publication in Nature Food
 view: 2
 header:
   caption: ""
   image: ""
+subtitle: Landscape complexity and US crop yield
 date: 2021-08-30T15:28:18.340Z
 ---
-Michael Madin is joining our group as a research assistant in August 2021. Michael has an M.A. in Geography from the University of Denver where he worked on the sustainability of small-holder farming in Ghana. Michael was also accepted as a  trainee in the [KSU NRT](http://nrt.research.ksu.edu/) 2021 cohort.
+Our recent paper examining the relationship between landscape complexity and yields of corn, soy, and wheat in the U.S. was recently published in [NatureFood](https://www.nature.com/articles/s43016-021-00281-1) and highlighted in NIFA's [latest newsletter](https://content.govdelivery.com/accounts/USDANIFA/bulletins/2eca194)! Read the full-text article at [https://rdcu.be/ckZGu.](https://rdcu.be/ckZGu)
