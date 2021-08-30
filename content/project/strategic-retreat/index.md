@@ -5,7 +5,7 @@ draft: false
 featured: false
 tags:
   - Strategic Retreat
-external_link: none
+external_link: 
 image:
   filename: featured.jpg
   focal_point: Smart
