@@ -32,7 +32,7 @@ abstract: Voluntary home buyout programs have gained increasing popularity as a
 draft: false
 featured: true
 tags:
-  - Strategic Retreat
+  - strategic-retreat
 projects:
   - Strategic Retreat
 image:
