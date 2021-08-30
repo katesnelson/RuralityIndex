@@ -4,7 +4,7 @@ title: "Definitions, measures, and uses of rurality: A systematic review of the
 publication_types:
   - "2"
 authors:
-  - Katherine S Nelson
+  - Admin
   - Tuan D Nguyen
   - Nathan A Brownstein
   - Devon Garcia
@@ -30,6 +30,8 @@ abstract: Definitions and measures of rurality are important to researchers and
   future directions, and implications for policy and practice.
 draft: false
 featured: false
+tags:
+  - rurality
 image:
   filename: ""
   focal_point: Smart
