@@ -45,8 +45,7 @@ title: Utilizing agent-based modeling to evaluate operational impacts of an
   incident and possible alternatives on US waterways
 doi: https://doi.org/10.1177/0361198120941504
 featured: false
-tags:
-  - strategic-retreat
+tags: []
 projects: []
 image:
   caption: ""
