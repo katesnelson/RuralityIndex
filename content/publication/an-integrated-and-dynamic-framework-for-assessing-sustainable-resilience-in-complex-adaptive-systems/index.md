@@ -28,8 +28,7 @@ authors:
 author_notes:
   - Equal Contributions
   - Equal Contributions
-publication: An integrated and dynamic framework for assessing sustainable
-  resilience in complex adaptive systems
+publication: Sustainable and Resilient Infrastructure
 summary: ""
 url_dataset: ""
 url_project: ""
@@ -41,7 +40,7 @@ title: An integrated and dynamic framework for assessing sustainable resilience
 doi: https://doi.org/10.1080/23789689.2019.1578165
 featured: false
 tags:
-  - strategic-retreat
+  - sustainable-communities
 projects: []
 image:
   caption: ""
