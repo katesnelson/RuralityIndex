@@ -20,7 +20,7 @@ abstract: The last century has seen a dramatic simplification of global
   diversification—an intervention with known ecosystem benefits—can increase
   crop production.
 slides: null
-url_pdf: https://iopscience.iop.org/article/10.1088/1748-9326/abe88d/pdf
+url_pdf: 
 publication_types:
   - "2"
 authors:
