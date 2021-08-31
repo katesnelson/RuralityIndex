@@ -36,5 +36,6 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2021-08-31T21:04:48.171Z
+date: "2017-09-12T00:00:00Z"
+external url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017WR020666
 ---
