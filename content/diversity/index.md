@@ -1,5 +1,5 @@
 +++
-# Diversity and Values
+# Values and Diversity
 
 widget = "widget_page"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = false # This file represents a page section.
