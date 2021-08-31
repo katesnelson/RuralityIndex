@@ -16,7 +16,7 @@ abstract: Growing awareness of climate change and resulting impacts to
   discussion of preliminary analyses, technical methodologies employed, and
   suggested future advances.
 slides: null
-url_pdf: https://iopscience.iop.org/article/10.1088/1748-9326/abe88d/pdf
+url_pdf: 
 publication_types:
   - "2"
 authors:
