@@ -42,7 +42,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2021-08-30T16:53:03.752Z
+date: "2018-09-01T00:00:00Z"
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
