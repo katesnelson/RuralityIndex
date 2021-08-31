@@ -21,7 +21,7 @@ abstract: Operations along inland waterways are particularly vulnerable to
   that lasts multiple days. The analysis also indicates that the waterway system
   can return to normal operations within a matter of weeks.
 slides: null
-url_pdf: https://iopscience.iop.org/article/10.1088/1748-9326/abe88d/pdf
+url_pdf: 
 publication_types:
   - "2"
 authors:
