@@ -2,6 +2,7 @@
 title: Landscape complexity and US crop production
 publication_types:
   - "2"
+url_pdf: https://rdcu.be/ckZGu
 authors:
   - Admin
   - Emily K. Burchfield
