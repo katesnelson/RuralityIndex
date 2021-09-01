@@ -11,7 +11,7 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -63,6 +63,6 @@ subtitle = ""
 - 2016 Assistant Instructor,  [Geospatial Technologies](http://vanderbilt.edu/gised/?page_id=1108) (K-12 teacher professional development), *Metropolitan Nashville Public Schools*
 - 2006-2008 [National Science Foundation Graduate Teaching Fellow in K-12 Education](http://www.gk12.org/)(part-time teacher), Environmental Science, *Gateway Middle School, St. Louis Public School District*
 
-**Guest Lectures**
+
 
 
