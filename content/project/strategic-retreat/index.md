@@ -8,7 +8,7 @@ draft: false
 featured: false
 tags:
   - Project
-external_link: " "
+external_link: 
 links:
   - icon: open-access
     icon_pack: ai
