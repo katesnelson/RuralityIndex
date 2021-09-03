@@ -19,7 +19,7 @@ Our goals are to:
 1. Promote responsible and sustainable management of our local watershed resources. 
 2. Develop tools and resources that empower citizens to make informed decisions about how they interact with their local environment. 
 3. Improve public access to, and understanding of, Wildcat Creek and surrounding natural areas.
-4. Produce evidence-based knowledge on the collective impacts of individual citizen actions to support the watershed and on the impacts of improved access to local natural resources on building a community of sustainability activism.
+4. Produce evidence-based knowledge on the collective impacts of individual citizen actions to support the watershed, and on the impacts of improved access to local natural resources on building a community of sustainability activism.
 
 
 
