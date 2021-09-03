@@ -5,9 +5,14 @@ draft: false
 featured: false
 tags:
   - rurality
-external_link: ""
+external_link: '""'
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 ---
+Critically examining how we define what is "rural" and the factors that are uniquely associated with sustainability in *rural* areas. Ongoing work includes:
+
+* A systematic review of the drivers and outcomes of rural sustainability studies.
+* Construction of alternative measures of rurality.
+* Construction, sensitivity analysis, and validation of a measure of agricultural community adaptive capacity.
