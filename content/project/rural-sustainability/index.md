@@ -3,7 +3,12 @@ title: Rural Sustainability
 date: 2021-08-30T18:15:11.991Z
 draft: false
 featured: false
-tags:
+links:
+- icon: open-access
+  icon_pack: ai
+  name: Relevant publications
+  url: tag/rurality
+ tags:
   - rurality
 external_link: '""'
 image:
