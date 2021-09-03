@@ -12,7 +12,7 @@ links:
   name: Relevant publications
   url: tag/sustainable-communities
 image:
-  filename: featured.jpg
+  filename: 
   focal_point: Smart
   preview_only: false
 ---
