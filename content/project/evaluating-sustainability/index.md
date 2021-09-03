@@ -10,7 +10,7 @@ links:
   url: tag/sustainable-communities
 tags:
   - sustainable-communities
-external_link: '""'
+external_link: ""
 image:
   filename: featured
   focal_point: Smart
