@@ -37,7 +37,7 @@ Recent efforts include a panel series led by [Prairiewood](https://prairiewood.c
 
 - [Sunday in the Stream](https://www.facebook.com/events/517660126188564) and [Know your Watershed](https://www.facebook.com/events/314763337068592)
 - [Support your Watershed](https://www.facebook.com/events/522693385660676)
-- [Water Fest](https://www.facebook.com/events/517859339546423) and [Love your Watershed] (https://www.facebook.com/events/1173877169782423)
+- [Water Fest](https://www.facebook.com/events/517859339546423) and [Love your Watershed](https://www.facebook.com/events/1173877169782423)
 
 
 
