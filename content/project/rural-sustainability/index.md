@@ -10,7 +10,7 @@ links:
   url: tag/rurality
  tags:
   - rurality
-external_link: '""'
+external_link: ""
 image:
   filename: ""
   focal_point: Smart
