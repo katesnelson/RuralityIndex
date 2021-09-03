@@ -1,9 +1,13 @@
 ---
 title: Strategic Retreat
 date: 2021-08-06T19:42:55.020Z
-summary: Recognizing the importance of strategic retreat policies and programs
-  in building a sustainable future we examine the social, economic, and
-  environmental dimensions of voluntary buyout programs in the United States.
+summary: >-
+  Recognizing the importance of strategic retreat policies and programs in
+  building a sustainable future we examine the social, economic, and
+  environmental dimensions of voluntary buyout programs in the United States. 
+
+
+  ![](featured.jpg)
 draft: false
 featured: false
 tags:
