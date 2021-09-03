@@ -17,7 +17,7 @@ links:
 image:
   filename: featured.jpg
   focal_point: Smart
-  preview_only: true
+  preview_only: false
 ---
 As natural disasters become more frequent and more severe there is significant discussion about whether it makes sense to rebuild developed areas following disasters. The idea of "strategic retreat" or "managed retreat" has seen increasing support as a flood adaptation and mitigation strategy. Across the globe, programs have been put into place to relocate individuals, and sometimes entire communities, that reside in flood-prone areas, reducing future flood damages, deaths, and injuries.  
 
