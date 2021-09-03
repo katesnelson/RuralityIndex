@@ -5,7 +5,7 @@ draft: false
 featured: false
 tags:
   - rurality
-external_link: none
+external_link: ""
 image:
   filename: featured
   focal_point: Smart
