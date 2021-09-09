@@ -4,7 +4,7 @@ date: 2021-09-09T20:36:07.563Z
 draft: false
 featured: false
 image:
-  filename: https://www.facebook.com/prairiewood/photos/gm.314763367068589/4479602298718506/?type=3&theater
+  filename: https://scontent.fmci2-1.fna.fbcdn.net/v/t39.30808-6/227711528_4479602302051839_1759324319334239661_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=973b4a&_nc_ohc=bgAJYqpymIoAX-VKTUm&_nc_ht=scontent.fmci2-1.fna&oh=e49a4c2e33f81f42c14b6d004a57012f&oe=613EB70B
   focal_point: Smart
   preview_only: false
 ---
