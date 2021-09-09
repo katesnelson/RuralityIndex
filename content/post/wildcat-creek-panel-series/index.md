@@ -1,6 +1,6 @@
 ---
 title: Wildcat Creek Panel Series
-date: 2021-09-09T20:36:07.563Z
+date: 2021-08-09T20:36:00.000Z
 draft: false
 featured: false
 image:
