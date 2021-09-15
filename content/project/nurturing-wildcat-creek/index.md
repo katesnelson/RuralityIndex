@@ -4,7 +4,7 @@ subtitle: Wildcat Creek Living Labs
 date: 2021-08-30T18:14:04.689Z
 draft: false
 featured: false
-external_link: '""'
+external_link: 
 image:
   filename: featured.jpg
   focal_point: Smart
