@@ -12,7 +12,13 @@ interests:
   - Rural community development
 social: []
 education:
-  courses: []
+  courses:
+    - course: M.S.  Family, Youth & Community Sciences
+      institution: University of Florida
+      year: 2019
+    - course: B.S. Agricultural Economics & Rural Development
+      institution: State University of Haiti - Port-au-Prince
+      year: 2012
 email: ""
 user_groups:
   - Current Members
