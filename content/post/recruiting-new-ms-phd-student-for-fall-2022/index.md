@@ -15,3 +15,7 @@ This student will support statistical modeling efforts to determine how climate 
 *Required qualifications*: (i) Bachelor’s degree in geography, environmental science, sociology, or related area, (ii) Experience with coding in R, Python, and/or statistical modeling approaches, (iii) Proficiency in oral and written communication in English.\
 \
 *Preferred qualifications*: (i) Geospatial analysis skills, (ii) Ability to work effectively in an interdisciplinary team.
+
+The student will be admitted through the [Department of Geography and Geospatial Sciences](https://www.k-state.edu/geography/) at KSU.  The candidate should be highly self-motivated and have a strong interest in being part of a collaborative research team. Our lab is committed to increasing representation of women and minorities in science and encourages candidates from diverse backgrounds to apply.\
+ \
+To inquire about the positions, please contact Dr. Kate Nelson at [ksnelson@ksu.edu](mailto:ksnelson@ksu.edu) with the following items as a single PDF attachment: 1) A cover letter describing your interest in the position, and 2) a Resume/CV.
