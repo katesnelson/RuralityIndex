@@ -3,6 +3,11 @@ title: Michael Madin
 role: Graduate Research Assistant
 avatar_filename: avatar.jpg
 social: []
+education:
+  courses:
+    - course: "M.A. in Geography "
+      year: 2020
+      institution: University of Denver
 superuser: false
 user_groups:
   - Current Members
