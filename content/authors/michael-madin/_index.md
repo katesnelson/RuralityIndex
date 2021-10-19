@@ -2,12 +2,17 @@
 title: Michael Madin
 role: Graduate Research Assistant
 avatar_filename: avatar.jpg
+interests:
+  - sustainable agriculture
 social: []
 education:
   courses:
     - course: "M.A. in Geography "
       year: 2020
       institution: University of Denver
+    - course: BSc. Development Planning
+      institution: Kwame Nkrumah University of Science and Technology, Kumasi, Ghana
+      year: 2017
 superuser: false
 user_groups:
   - Current Members
