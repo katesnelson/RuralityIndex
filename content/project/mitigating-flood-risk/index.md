@@ -6,6 +6,8 @@ draft: false
 featured: false
 tags: []
 external_link: https://storymaps.arcgis.com/stories/e4cabd52b3f54511820e3d58b3cbe498
+links:
+  - url: tag/strategic-retreat
 image:
   filename: featured.jpg
   focal_point: Smart
