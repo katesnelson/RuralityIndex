@@ -1,9 +1,10 @@
 ---
-title: Recruiting new MS/PhD Student for Fall 2022
+title: "Position Filled "
 view: 2
 header:
   caption: ""
   image: ""
+subtitle: Recruiting new MS/PhD Student for Fall 2022
 date: 2021-10-19T15:50:36.530Z
 ---
 SCALes is recruiting a graduate student (M.S. or Ph.D. track) to begin in fall 2022 as part of a new project studying the intersection of water, agriculture, and community resilience to climate change. The student will join an interdisciplinary team of scientists to examine how agricultural adaptation strategies can help manage climate risks.
