@@ -52,10 +52,11 @@ subtitle = ""
 - Check out these fantastic resources for geospatial programming, modeling, and spatial analysis in R developed by Dr. Burchfield at Emory University [here](https://www.emilyburchfield.org/courses/).
 
 **Courses Taught**
-  - *Geographic Information Systems I* (GEOG 508). Fall 2018/2019 & Spring 2019.	Cross-listed graduate and undergraduate introductory course in application of GIS to problem solving.
-  - *Research and Professional Development in Geography* (GEOG 821). Fall 2019.	Master’s level introductory seminar on research methods and professionalization in Geography.
-  - *Sustainability Concepts and Issues* (GEOG 360). Spring 2019/2020, Fall 2021 in-person & Fall 2020, Spring 2021 online. Undergraduate introductory course in sustainability concepts and systems thinking.
-  - *Seminar in Sustainability Science, Thought, and Approaches* (GEOG 833). Spring 2021. Graduate seminar in sustainability science concepts, frameworks, and methods.
+  - *Geographic Information Systems I* (GEOG 508). Online and In-person.	Cross-listed graduate and undergraduate introductory course in application of GIS to problem solving.
+  - *Research and Professional Development in Geography* (GEOG 821). 	Master’s level introductory seminar on research methods and professionalization in Geography.
+  - *Sustainability Concepts and Issues* (GEOG 360). Online and In-person. Undergraduate introductory course in sustainability concepts and systems thinking.
+  - *Seminar in Sustainability Science, Thought, and Approaches* (GEOG 833).  Graduate seminar in sustainability science concepts, frameworks, and methods.
+  - *Programming for Geographic Analysis - R* (GEOG 728). Advanced studio class on geospatial analysis and programming in the open software R.
  
 **Additional Training and Experience**
 - 2017 SELECTED PARTICIPANT in [National Socio-Environmental Synthesis Center (SESYNC)](https://www.sesync.org/) Short Course *Teaching Socio-Environmental Synthesis with Case Studies*. 
