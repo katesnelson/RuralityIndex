@@ -22,7 +22,7 @@ We acknowledge that in building a productive and friendly professional environme
 - Ethics: We abide by the K-State code of ethics and our collective moral values that promote a positive research working environment.
 
 Resources:
-- [On being a scientist](https://www.k-state.edu/comply/rcr/resources/on being a scientist.pdf)
+- [On being a scientist](https://www.k-state.edu/comply/rcr/resources/on being a scientist.pdf/)
 -	[RCR Frequently Asked Questions](https://www.nsf.gov/pubs/policydocs/rcr/rcrfaqs.jsp#4)
 -	[Foundations of Integrity in Research](https://www.ncbi.nlm.nih.gov/books/NBK475948/)
 
