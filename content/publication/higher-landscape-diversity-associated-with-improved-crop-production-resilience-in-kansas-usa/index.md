@@ -10,6 +10,7 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
+  - Equal contribution
 doi: https://doi.org/10.1088/1748-9326/ac7e5f
 publication: Environmental Research Letters
 abstract: Cropland expansion and agriculture intensification have been the
