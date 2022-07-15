@@ -6,6 +6,7 @@ layout: docs
 title: Values and Diversity
 ---
 
+![](scales house.png)
 
 **Values Statement**
 
