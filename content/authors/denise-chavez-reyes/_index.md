@@ -1,9 +1,9 @@
 ---
 title: Denise Chavez Reyes
 role: Graduate Research Assistant
-avatar_filename: ""
+avatar_filename: image.jpeg
 social: []
 superuser: false
 user_groups:
-  - Alumni
+  - Current members
 ---
