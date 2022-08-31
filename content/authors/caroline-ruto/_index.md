@@ -1,7 +1,7 @@
 ---
 title: Caroline Ruto
 role: Graduate Teaching Assistant
-avatar_filename: image_ruto-2-.jpeg
+avatar_filename: avatar.jpeg
 social: []
 superuser: false
 user_groups:
