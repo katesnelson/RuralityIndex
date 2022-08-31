@@ -5,5 +5,5 @@ avatar_filename: image.jpeg
 social: []
 superuser: false
 user_groups:
-  - Current members
+  - Current Members
 ---
