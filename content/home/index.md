@@ -1,8 +1,5 @@
----
-type: widget_page
-widget: blank
-widget_id: projects
-headless: true
-weight: 2
-title: Projects
----
++++
+# Homepage
+type = "widget_page"
+headless = true  # Homepage is headless, other widget pages are not.
++++
