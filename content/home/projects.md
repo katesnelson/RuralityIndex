@@ -18,7 +18,7 @@ design:
   flip_alt_rows: false
   background:
     image: ""
-    color: rgba(81, 40, 136, 0.26)
+    color: rgba(81, 40, 136, 0.15)
   spacing:
     padding:
       - 20px
