@@ -1,7 +1,7 @@
 ---
 title: Caroline Ruto
 role: Graduate Teaching Assistant
-avatar_filename: scales-photo.jpg
+avatar_filename: avatar.jpg
 interests:
   - Dryland ecosystems
   - Sustainability of rural communities
