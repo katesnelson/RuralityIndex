@@ -17,6 +17,7 @@ design:
     image_position: center
     image_size: cover
     text_color_light: true
+    color: "#1b0303"
   spacing:
     padding:
       - 20px
