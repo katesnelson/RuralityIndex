@@ -17,7 +17,8 @@ design:
   view: 2
   flip_alt_rows: false
   background:
-    image: flood landscape.jpg
+    image: ""
+    color: rgba(81, 40, 136, 0.26)
   spacing:
     padding:
       - 20px
