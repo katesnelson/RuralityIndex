@@ -11,13 +11,13 @@ active: true
 design:
   columns: "1"
   background:
-    image: ""
+    image: banner.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
     image_size: cover
     text_color_light: true
-    color: "#1b0303"
+    color: rgba(27, 3, 3, 0)
   spacing:
     padding:
       - 20px
