@@ -20,4 +20,6 @@ content:
 design:
   view: 3
   columns: "2"
+  background:
+    color: rgba(81, 40, 136, 0.15)
 ---
