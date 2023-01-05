@@ -1,5 +1,5 @@
 ---
-title: Kate presents at ACES Confernce
+title: Kate presents at ACES Conference
 view: 2
 header:
   caption: ""
