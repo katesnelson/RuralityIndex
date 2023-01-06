@@ -5,7 +5,7 @@ date: 2023-01-05T22:53:08.767Z
 draft: false
 featured: false
 image:
-  filename: https://onlinelibrary.wiley.com/pb-assets/journal-banners/10991719-1655309769647.jpg
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
