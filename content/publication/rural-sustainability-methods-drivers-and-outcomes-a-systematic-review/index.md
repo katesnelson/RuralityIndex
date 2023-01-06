@@ -7,6 +7,7 @@ authors:
   - Tuan D. Nguyen
   - Jean R. Francois
   - Shreya Ojha
+date: "2022-12-14T00:00:00Z"
 doi: https://doi.org/10.1002/sd.2471
 abstract: In the past three decades, sustainability science has taken on new
   importance as interest groups investigate better ways to tackle global
