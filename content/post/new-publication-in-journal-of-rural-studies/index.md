@@ -7,7 +7,7 @@ featured: false
 image:
   filename: featured.png
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
 Our paper on our developed "rurality" index (CARR) was recently published in the *Journal of Rural Studies*!
 
