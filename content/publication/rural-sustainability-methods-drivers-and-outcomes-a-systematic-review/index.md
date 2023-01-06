@@ -38,7 +38,7 @@ draft: false
 featured: false
 tags:
   - rurality
-  - sustainable-community
+  - sustainable-communities
 categories: []
 image:
   filename: featured
