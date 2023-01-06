@@ -5,12 +5,7 @@ publication_types:
   - "2"
 authors:
   - Admin
-  - Tuan D Nguyen
-  - Nathan A Brownstein
-  - Devon Garcia
-  - Hayden C Walker
-  - Jordan T Watson
-  - Aote Xin
+  - Tuan D. Nguyen
 author_notes:
   - Equal contribution
   - Equal contribution
