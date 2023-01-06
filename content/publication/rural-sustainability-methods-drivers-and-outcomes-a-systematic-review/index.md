@@ -36,8 +36,10 @@ abstract: In the past three decades, sustainability science has taken on new
   confidence in results that inform policy and decision-making.
 draft: false
 featured: false
-categories:
+tags:
   - rurality
+  - sustainable-community
+categories: []
 image:
   filename: featured
   focal_point: Smart
