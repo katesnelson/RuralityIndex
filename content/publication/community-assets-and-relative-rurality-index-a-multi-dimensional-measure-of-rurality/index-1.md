@@ -2,15 +2,11 @@
 title: "Rural sustainability methods, drivers, and outcomes: A systematic review"
 publication_types:
   - "2"
-authors:
-  - Admin
-  - Tuan D Nguyen
-  - Jean R Francois
-  - Shreya Ojha
+authors: []
 author_notes:
   - Equal contribution
   - Equal contribution
-doi: " https://doi.org/10.1002/sd.2471"
+doi: https://doi.org/10.1002/sd.2471
 publication: Sustainable Development
 abstract: In the past three decades, sustainability science has taken on new
   importance as interest groups investigate better ways to tackle global
