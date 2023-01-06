@@ -1,6 +1,5 @@
 ---
-title: "Community assets and relative rurality index: A multi-dimensional
-  measure of rurality"
+title: "Rural sustainability methods, drivers, and outcomes: A systematic review"
 publication_types:
   - "2"
 authors:
@@ -42,6 +41,7 @@ draft: false
 featured: false
 tags:
   - rurality
+  - sustainable-communities
 image:
   filename: ""
   focal_point: Smart
