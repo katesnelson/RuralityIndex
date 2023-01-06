@@ -9,6 +9,7 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
+url_pdf: https://doi.org/10.1016/j.jrurstud.2022.12.025
 doi: https://doi.org/10.1016/j.jrurstud.2022.12.025
 publication: " Journal of Rural Studies"
 abstract: Rurality is often viewed as presenting challenges to community
