@@ -11,9 +11,7 @@ authors:
   - J.
   - Admin
   - "& Shivley"
-author_notes:
-  - Equal contribution
-  - Equal contribution
+author_notes: []
 doi: https://doi.org/10.18666/JPRA-2022-11429
 publication: Journal of Park and Recreation Administration
 abstract: As visitation to park and protected areas increases globally, public
