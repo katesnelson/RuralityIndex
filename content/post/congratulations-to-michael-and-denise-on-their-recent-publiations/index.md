@@ -1,5 +1,5 @@
 ---
-title: Congratulations to Michael and Denise on their recent publiations!
+title: Congratulations to Michael and Denise on their recent publications!
 view: 2
 header:
   caption: ""
