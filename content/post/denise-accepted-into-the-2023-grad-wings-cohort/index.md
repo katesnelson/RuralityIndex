@@ -6,6 +6,8 @@ header:
   image: ""
 subtitle: ""
 date: 2023-02-10T19:53:44.607Z
+authors:
+  - denise-chavez-reyes
 image:
   filename: ""
   focal_point: TOPLEFT
