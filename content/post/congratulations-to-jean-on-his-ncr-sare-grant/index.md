@@ -6,6 +6,8 @@ header:
   image: ""
 subtitle: ""
 date: 2023-02-06T16:41:18.241Z
+authors:
+  - jean-ribert-francois
 image:
   filename: ""
   focal_point: TOPLEFT
