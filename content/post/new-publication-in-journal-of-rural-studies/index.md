@@ -4,8 +4,7 @@ subtitle: ""
 date: 2023-01-06T15:09:09.962Z
 draft: false
 featured: false
-authors:
-  - admin
+authors: []
 image:
   filename: featured.png
   focal_point: Smart
