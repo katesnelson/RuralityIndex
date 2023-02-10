@@ -10,7 +10,7 @@ title: Values and Diversity
 
 **Values Statement**
 
-At SCALes Research Group, we are committed to:
+At SCALes lab, we are committed to:
 
 - Innovation: Innovation is the basis to the creation of value for oneself and the community. We welcome and respect new ideas from the team members. 
 - Scientific Integrity: We require the highest level of integrity from every group member involved in research activities. We expect that everyone has a working understanding of the complex issues surrounding the responsible conduct of research. We acknowledge that plagiarism and tampering with data is never acceptable. We are committed to making data and research more open and transparent to increase reproduciblity and support the work of the broader research community.
