@@ -6,6 +6,10 @@ header:
   image: ""
 subtitle: ""
 date: 2022-07-15T14:12:24.631Z
+authors:
+  - jean-ribert-francois
+  - michael-madin
+  - denise-chavez-reyes
 image:
   filename: https://www.aag.org/wp-content/uploads/2022/01/AAG_logo_full_White_2022.svg
   focal_point: TOPLEFT
