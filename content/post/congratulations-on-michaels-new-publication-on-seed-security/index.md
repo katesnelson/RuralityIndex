@@ -6,6 +6,8 @@ header:
   image: ""
 subtitle: Seed security among smallholder farmers in semi-arid Ghana
 date: 2022-01-11T15:06:24.195Z
+authors:
+  - michael-madin
 image:
   filename: https://ars.els-cdn.com/content/image/X26670100.jpg
   focal_point: TOPLEFT
