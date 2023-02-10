@@ -6,8 +6,7 @@ header:
   image: ""
 subtitle: ""
 date: 2023-01-05T22:40:03.364Z
-authors:
-  - admin
+authors: []
 image:
   filename: featured.jpg
   focal_point: TOPLEFT
