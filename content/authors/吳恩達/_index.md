@@ -5,7 +5,7 @@ avatar_filename: avatar.jpg
 organizations: []
 superuser: false
 authors:
-  - 吳恩達
+  - jean-ribert-francois
 bio: My research interests include rural community development and change and
   transformation in community-based systems.
 interests:
