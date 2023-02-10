@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Admin
   - Tuan D. Nguyen
-  - Jean R. Francois
+  - jean-ribert-francois
   - Shreya Ojha
 doi: https://doi.org/10.1002/sd.2471
 publication: Sustainable Development
