@@ -7,7 +7,8 @@ header:
 subtitle: ""
 date: 2023-02-06T16:31:25.510Z
 authors:
-  - Denise
+  - denise-chavez-reyes
+  - michael-madin
 image:
   filename: ""
   focal_point: TOPLEFT
