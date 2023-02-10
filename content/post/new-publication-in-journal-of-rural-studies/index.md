@@ -6,7 +6,7 @@ draft: false
 featured: false
 authors: []
 image:
-  filename: featured.png
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
