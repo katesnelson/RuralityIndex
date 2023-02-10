@@ -7,7 +7,7 @@ header:
 subtitle: ""
 date: 2023-01-05T22:40:03.364Z
 image:
-  filename: ""
+  filename: featured.jpg
   focal_point: TOPLEFT
 ---
 Dr. Nelson presented in a USDA NIFA - organized session on Stakeholder Informed Approaches to Overcoming Barriers at [A Community on Ecosystem Services (ACES)](https://conference.ifas.ufl.edu/aces/index.php) annual conference in December, 2022.
