@@ -45,11 +45,14 @@ subtitle = ""
  css_class = ""
 +++
 
+
 **Resources**
+
+- [Programming for Geospatial Analysis - R (GEOG 728) class GitHub organization account.](https://github.com/KSU-GEOG728) This GitHub account includes tutorials and other teaching materials developed or curated by Dr. Nelson.
 - 2018  Gunda, T., Nelson, K., and Patel, N. [Sustainable Development: It’s as easy as F-E-W](https://www.sesync.org/sustainable-development-it%E2%80%99s-as-easy-as-f-e-w-2017-2). Teaching Case Study. National Socio-Environmental Synthesis Center. 
-- YouTube video of [guest lecture on Urban Flood Adaptation](https://www.youtube.com/watch?v=86s1iNwpShI&feature=youtu.be) for the Natural Resources and Environmental Sciences capstone class at KSU, Fall 2018.  
-- [Example storymap](https://kstate.maps.arcgis.com/apps/MapJournal/index.html?appid=a539f7be4dcd4e499fe4854a0575e631) and getting started tutorial for a GEOG 508 semester project.  
-- Check out these fantastic resources for geospatial programming, modeling, and spatial analysis in R developed by Dr. Burchfield at Emory University [here](https://www.emilyburchfield.org/courses/).
+- [Example storymap](https://kstate.maps.arcgis.com/apps/MapJournal/index.html?appid=a539f7be4dcd4e499fe4854a0575e631) and getting started with storymaps tutorial created by Dr. Nelson for a Geographic Information Systems I (GEOG 508) class.  
+- YouTube video of Dr. Nelson's [guest lecture on Urban Flood Adaptation](https://www.youtube.com/watch?v=86s1iNwpShI&feature=youtu.be) for the Natural Resources and Environmental Sciences capstone class at KSU, Fall 2018.    
+- Check out these fantastic resources for geospatial programming, modeling, and spatial analysis in R developed by Dr. Burchfield at Emory University [here](https://www.emilyburchfield.org/courses/). 
 
 **Courses Taught**
   - *Geographic Information Systems I* (GEOG 508). Online and In-person.	Cross-listed graduate and undergraduate introductory course in application of GIS to problem solving.
@@ -58,11 +61,7 @@ subtitle = ""
   - *Seminar in Sustainability Science, Thought, and Approaches* (GEOG 833).  Graduate seminar in sustainability science concepts, frameworks, and methods.
   - *Programming for Geographic Analysis - R* (GEOG 728). Advanced studio class on geospatial analysis and programming in the open software R.
  
-**Additional Training and Experience**
-- 2017 SELECTED PARTICIPANT in [National Socio-Environmental Synthesis Center (SESYNC)](https://www.sesync.org/) Short Course *Teaching Socio-Environmental Synthesis with Case Studies*. 
-- 2016 CERTIFICATE in College Teaching, [Vanderbilt Center for Teaching] (https://cft.vanderbilt.edu/), Vanderbilt University
-- 2016 Assistant Instructor,  [Geospatial Technologies](http://vanderbilt.edu/gised/?page_id=1108) (K-12 teacher professional development), *Metropolitan Nashville Public Schools*
-- 2006-2008 [National Science Foundation Graduate Teaching Fellow in K-12 Education](http://www.gk12.org/)(part-time teacher), Environmental Science, *Gateway Middle School, St. Louis Public School District*
+
 
 
 
