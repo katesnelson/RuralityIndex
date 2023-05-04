@@ -12,7 +12,7 @@ authors:
   - denise-chavez-reyes
   - caroline-ruto
 image:
-  filename: https://www.aag.org/wp-content/uploads/2022/01/AAG_logo_full_White_2022.svg
+  filename: featured.jpeg
   focal_point: TOPLEFT
 ---
 T﻿he SCALes team had a productive AAG 2023! All members presented in-person at the conference in Denver. See the list of presentations that our members gave or collaborated on below.
