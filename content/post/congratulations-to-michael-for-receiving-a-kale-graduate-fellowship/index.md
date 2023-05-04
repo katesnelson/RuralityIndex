@@ -7,7 +7,7 @@ header:
 subtitle: ""
 date: 2023-05-04T17:55:39.488Z
 authors:
-  - jean-ribert-francois
+  - michael-madin
 image:
   filename: featured.png
   focal_point: TOPLEFT
