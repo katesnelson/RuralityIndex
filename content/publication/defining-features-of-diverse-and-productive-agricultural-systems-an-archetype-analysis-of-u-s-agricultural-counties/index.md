@@ -5,10 +5,8 @@ publication_types:
   - "2"
 authors:
   - Admin
-  - Tuan Nguyen
-author_notes:
-  - Equal contribution
-  - Equal contribution
+  - Emily K. Burchfield
+author_notes: []
 doi: https://doi.org/10.3389/fsufs.2023.1081079
 publication: Frontiers in Sustainable Food Systems
 abstract: Prior research suggests that greater spatial diversity in crops and
