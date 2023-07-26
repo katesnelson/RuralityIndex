@@ -3,16 +3,15 @@ title: Evaluating Sustainability
 date: 2021-08-30T18:15:48.474Z
 draft: false
 featured: false
-tags:
-  - Project
-external_link: ""
+tags: []
+external_link: NA
 links:
-- icon: open-access
-  icon_pack: ai
-  name: Relevant publications
-  url: tag/sustainable-communities
+  - icon: open-access
+    icon_pack: ai
+    name: Relevant publications
+    url: tag/sustainable-communities
 image:
-  filename: 
+  filename: null
   focal_point: Smart
   preview_only: false
 ---
