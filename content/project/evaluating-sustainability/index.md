@@ -5,7 +5,7 @@ draft: false
 featured: false
 authors: []
 tags: []
-external_link: NA
+
 links:
   - icon: open-access
     icon_pack: ai
