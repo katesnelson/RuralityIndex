@@ -13,4 +13,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Check out \[this pod-cast](https://ges-center-lectures-ncsu.pinecast.co/episode/690ca6f6/andrea-rissing-diversification-as-landscape-change-in-nc) by our amazing \[Diversity of Agricultural Landscapes project](https://scales-ksu.netlify.app/project/landscape-diversity/) post-doc (and now assistant professor at Arizona State University!) Andrea Rissing!
+Check out [this pod-cast](https://ges-center-lectures-ncsu.pinecast.co/episode/690ca6f6/andrea-rissing-diversification-as-landscape-change-in-nc) by our amazing [Diversity of Agricultural Landscapes project](https://scales-ksu.netlify.app/project/landscape-diversity/) post-doc (and now assistant professor at Arizona State University!) Andrea Rissing!
