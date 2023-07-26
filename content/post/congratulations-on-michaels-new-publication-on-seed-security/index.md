@@ -1,5 +1,5 @@
 ---
-title: Denise to attend I-GUIDE Convergence Science in Action 2023 Workshop
+title: Congratulations on Michael's new publication on seed security!
 view: 2
 header:
   caption: ""
@@ -7,9 +7,9 @@ header:
 subtitle: ""
 date: 2022-01-11T15:06:24.195Z
 authors:
-  - denise-chavez
+  - michael-madin
 image:
   filename: ""
   focal_point: TOPLEFT
 ---
-D﻿enise will attend the [Institute for Geospatial Understanding through an Integrated Discovery Environment (I-GUIDE) Summer School](https://iguide.illinois.edu/summer-school-2023/) in August 2023 on Convergence Science in Action. At the week-long workshop in Denver, CO about 35 graduate students and early career scholars will collaborate with project members of I-GUIDE to develop novel solutions to complex problems that rely on computation- or data-intensive geospatial data science. Congratulations on being selected to attend, Denise!
+Michael has a new publication ["Seed security among smallholder farmers in semi-arid Ghana"](https://www.sciencedirect.com/science/article/pii/S2667010021004121) in the journal Environmental Challenges. Congratulations Michael!
