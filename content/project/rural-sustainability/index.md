@@ -4,7 +4,7 @@ date: 2021-08-30T18:15:11.991Z
 draft: false
 featured: false
 tags: []
-external_link: NA
+
 links:
   - icon: open-access
     icon_pack: ai
