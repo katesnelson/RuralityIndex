@@ -6,6 +6,8 @@ subtitle: Check out this pod-cast by our amazing Diversity of Agricultural
 date: 2023-07-26T16:25:56.988Z
 draft: false
 featured: false
+tags:
+  - diversity
 image:
   filename: featured
   focal_point: Smart
