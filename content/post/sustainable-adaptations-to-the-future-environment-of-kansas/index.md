@@ -4,8 +4,10 @@ subtitle: ""
 date: 2023-07-26T16:33:43.709Z
 draft: false
 featured: false
-tags:
-  - diversity
+authors:
+  - denise-chavez-reyes
+  - admin
+tags: []
 image:
   filename: ""
   focal_point: Smart
