@@ -9,6 +9,7 @@ authors:
   - admin
 tags:
   - sustainable-communities
+  - rurality
 image:
   filename: ""
   focal_point: Smart
