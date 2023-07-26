@@ -7,7 +7,8 @@ featured: false
 authors:
   - denise-chavez-reyes
   - admin
-tags: []
+tags:
+  - sustainable-communities
 image:
   filename: ""
   focal_point: Smart
