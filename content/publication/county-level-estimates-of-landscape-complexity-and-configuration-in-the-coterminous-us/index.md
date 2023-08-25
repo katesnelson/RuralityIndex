@@ -7,8 +7,8 @@ authors:
   - Burchfield
   - Emily K.
   - admin
-doi: https://doi.org/10.15482/USDA.ADC/1529163.
-publication: "Ag Data Commons. "
+doi: https://doi.org/10.15482/USDA.ADC/1529163
+publication: Ag Data Commons
 draft: false
 featured: false
 tags:
