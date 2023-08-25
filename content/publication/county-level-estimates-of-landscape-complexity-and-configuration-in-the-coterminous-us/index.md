@@ -4,8 +4,7 @@ title: County-level Estimates of Landscape Complexity and Configuration in the
 publication_types:
   - "0"
 authors:
-  - Burchfield
-  - Emily K.
+  - Emily K. Burchfield
   - admin
 doi: https://doi.org/10.15482/USDA.ADC/1529163
 publication: Ag Data Commons
