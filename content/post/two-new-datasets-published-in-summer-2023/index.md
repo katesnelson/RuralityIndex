@@ -3,10 +3,7 @@ title: Two new datasets published in Summer 2023
 date: 2023-08-25T17:22:25.338Z
 draft: false
 featured: false
-authors:
-  - admin
-  - Tuan D. Nguyen
-  - Colin Goodman
+authors: []
 tags: []
 image:
   filename: featured
