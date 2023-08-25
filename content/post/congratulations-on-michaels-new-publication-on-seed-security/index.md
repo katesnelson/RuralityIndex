@@ -1,5 +1,5 @@
 ---
-title: Congratulations on Michael's  publicationa on seed security!
+title: Congratulations on Michael's  publication on seed security!
 view: 2
 header:
   caption: ""
