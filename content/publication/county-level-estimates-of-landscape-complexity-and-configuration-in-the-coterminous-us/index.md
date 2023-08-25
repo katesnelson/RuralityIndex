@@ -1,6 +1,6 @@
 ---
-title: "County-level Estimates of Landscape Complexity and Configuration in the
-  Coterminous US. "
+title: County-level Estimates of Landscape Complexity and Configuration in the
+  Coterminous US
 publication_types:
   - "0"
 authors:
