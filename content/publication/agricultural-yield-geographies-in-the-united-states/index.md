@@ -22,7 +22,7 @@ url_pdf: https://iopscience.iop.org/article/10.1088/1748-9326/abe88d/pdf
 publication_types:
   - "2"
 authors:
-  - Emily K Burchfield
+  - Emily K. Burchfield
   - Admin
 author_notes: []
 publication: Environmental Research Letters
@@ -42,7 +42,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: "2021-05-06T00:00:00Z"
+date: 2021-05-06T00:00:00Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
