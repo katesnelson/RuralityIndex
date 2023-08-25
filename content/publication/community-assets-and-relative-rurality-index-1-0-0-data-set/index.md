@@ -6,7 +6,7 @@ publication_types:
   - "0"
 authors:
   - admin
-  - Tuan Nguyen
+  - Tuan D. Nguyen
 doi: https://doi.org/10.5281/zenodo.8072187
 publication: Zenodo
 draft: false
