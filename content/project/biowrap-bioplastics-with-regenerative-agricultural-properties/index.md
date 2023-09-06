@@ -3,7 +3,7 @@ title: BioWRAP - Bioplastics with Regenerative Agricultural Properties
 date: 2022-08-25T20:25:15.986Z
 draft: false
 featured: false
-external_link: https://bae.k-state.edu/research/biowrap/untitled.html
+external_link: https://thebiowrap.com/
 image:
   filename: featured
   focal_point: Smart
