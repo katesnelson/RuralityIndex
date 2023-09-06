@@ -18,4 +18,4 @@ image:
 Critically examining how we define what is "rural" and the factors that are uniquely associated with sustainability in *rural* areas. Ongoing work includes:
 
 * Construction, sensitivity analysis, and validation of a measure of agricultural community adaptive capacity.
-* Examination of the association between descriptive measure of rurality and perceived community well-being
+* Examination of the association between a descriptive measure of rurality and perceived community well-being.
