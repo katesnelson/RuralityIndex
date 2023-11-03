@@ -6,6 +6,12 @@ bio: My research interests include rural community development and change and
   transformation in community-based systems.
 interests:
   - Rural community development
+education:
+  courses:
+    - course: "Agricultural Economics and Rural Development"
+      institution: College of Agronomy and Veterinary Medicine / State University of Haiti
+    - course: "Family, Youth and Community Sciences"
+      institution: College of Agriculture and Life Sciences / University of Florida
 social: []
 superuser: false
 user_groups:
