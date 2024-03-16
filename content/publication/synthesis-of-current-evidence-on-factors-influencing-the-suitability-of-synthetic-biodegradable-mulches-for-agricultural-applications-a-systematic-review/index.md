@@ -8,6 +8,12 @@ publication_types:
 authors:
   - Michael Madin
   - Admin
+  - Kanij Fatema
+  - Karina Schoengold
+  - Abhilekha Dalal
+  - Ikenna Onyekwelu
+  - Rushrukh Rayan
+  - Sanaz Saki Norouzi
 author_notes: []
 doi: https://doi.org/10.1016/j.jafr.2024.101095
 publication: Journal of Agriculture and Food Research
