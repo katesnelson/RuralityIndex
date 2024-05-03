@@ -3,6 +3,8 @@ title: Check out Jean's story map about how farmer's help foster community well 
 date: 2024-05-03T19:22:00.669Z
 draft: false
 featured: false
+tags:
+  - diversity
 image:
   filename: featured
   focal_point: Smart
