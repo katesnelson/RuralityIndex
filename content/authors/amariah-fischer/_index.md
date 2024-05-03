@@ -16,4 +16,4 @@ superuser: false
 user_groups:
   - Current Members
 ---
-Amariah is a PhD student in the Department of Geography and Geospatial Sciences at Kansas State University. She has worked as a part-time RA conducting interviews with farmers and analyzing survey data since 2022.
+Amariah is a PhD student in the Department of Geography and Geospatial Sciences at Kansas State University. She has worked as a part-time RA conducting interviews with farmers and analyzing survey data since 2022. Since spring 2024 Amariah has also worked as a GRA on the [KState GRIP Sustainable Wheat Data Hub](https://www.k-state.edu/research/faculty/funding/grip/) project.
