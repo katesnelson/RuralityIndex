@@ -3,12 +3,12 @@ title: Diversity of Agricultural Landscapes
 date: 2021-08-27T14:36:45.034Z
 draft: false
 featured: false
-external_link: ""
+external_link: " "
 links:
-- icon: open-access
-  icon_pack: ai
-  name: Relevant publications
-  url: tag/diversity
+  - icon: open-access
+    icon_pack: ai
+    name: Relevant publications
+    url: tag/diversity
 image:
   filename: featured.png
   focal_point: Smart
@@ -25,3 +25,9 @@ Key findings include:
 * The effects of diversity on crop yields are of a similar strength as the effects of precipitation and soil suitability.
 * Chemical inputs and governmental monetary support are strongly associated with yields that are surprisingly high considering biophysical conditions.
 * Counties with surprisingly high yields are not associated with improved farmer revenues.
+
+
+
+F﻿or more information see our [project products list](https://scales-ksu.netlify.app/tag/diversity/), the story map below, and our new YouTube channel.
+
+<iframe src="https://storymaps.arcgis.com/stories/4f96b89742da402ab459a245a234567f" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
