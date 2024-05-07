@@ -3,10 +3,9 @@ title: Flood Risk, Flood Policy, and Strategic Retreat
 date: 2021-08-06T19:42:55.020Z
 summary: ""
 draft: false
-featured: false
+featured: true
 tags:
   - Project
-external_link: " "
 links:
   - icon: open-access
     icon_pack: ai
