@@ -2,8 +2,7 @@
 title: Diversity of Agricultural Landscapes
 date: 2021-08-27T14:36:45.034Z
 draft: false
-featured: false
-external_link: " "
+featured: true
 links:
   - icon: open-access
     icon_pack: ai
