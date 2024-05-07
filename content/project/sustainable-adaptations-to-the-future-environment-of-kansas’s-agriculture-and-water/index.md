@@ -5,7 +5,7 @@ subtitle: SAFE KAW
 date: 2022-08-25T13:40:24.883Z
 draft: false
 featured: false
-external_link: https://today.ku.edu/2022/06/24/kansas-geological-survey-project-aims-help-agricultural-communities-prepare-risks-climate
+external_link: https://safekaw-ku.hub.arcgis.com/
 image:
   filename: featured
   focal_point: Smart
