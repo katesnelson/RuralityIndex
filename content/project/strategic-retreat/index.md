@@ -4,8 +4,7 @@ date: 2021-08-06T19:42:55.020Z
 summary: ""
 draft: false
 featured: true
-tags:
-  - Project
+tags: []
 links:
   - icon: open-access
     icon_pack: ai
