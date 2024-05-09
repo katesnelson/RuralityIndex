@@ -27,6 +27,6 @@ Key findings include:
 
 
 
-F﻿or more information see our [project products list](https://scales-ksu.netlify.app/tag/diversity/), the story map below, and our new YouTube channel.
+F﻿or more information see our [project products list](https://scales-ksu.netlify.app/tag/diversity/), the story map below, and our new [YouTube channel](https://www.youtube.com/playlist?list=PLkTF9-Hntm9yYeg1f76F39gzXPGx5F9Jd).
 
 <iframe src="https://storymaps.arcgis.com/stories/4f96b89742da402ab459a245a234567f" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
