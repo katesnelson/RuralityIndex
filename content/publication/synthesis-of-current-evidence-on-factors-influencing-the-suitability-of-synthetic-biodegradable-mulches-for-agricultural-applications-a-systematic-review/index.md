@@ -43,7 +43,7 @@ draft: false
 url_pdf: https://doi.org/10.1016/j.jrurstud.2022.12.025
 featured: false
 tags:
-  - diversity
+  - biomulch
 image:
   filename: ""
   focal_point: Smart
