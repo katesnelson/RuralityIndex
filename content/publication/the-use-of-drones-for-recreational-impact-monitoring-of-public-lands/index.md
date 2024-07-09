@@ -31,8 +31,7 @@ abstract: As visitation to park and protected areas increases globally, public
   decision-making to reduce recreational impacts associated with visitor use.
 draft: false
 featured: false
-tags:
-  - rurality
+tags: []
 image:
   filename: ""
   focal_point: Smart
