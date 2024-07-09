@@ -12,7 +12,7 @@ publication: Zenodo
 draft: false
 featured: false
 tags:
-  - diversity
+  - rurality
 image:
   filename: featured
   focal_point: Smart
