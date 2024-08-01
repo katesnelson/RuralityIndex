@@ -1,6 +1,6 @@
 ---
 title: Kate Nelson
-role: Assistant Professor, SCALes PI
+role: Associate Professor, SCALes PI
 avatar_filename: avatar.jpg
 bio: My research interests include landscape diversity, agricultural adaptation,
   strategic retreat, vulnerability assessment, and scaling relationships.
@@ -21,12 +21,12 @@ social:
     icon: github
   - display:
       header: false
-    link: mailto:ksnelson@ksu.edu
+    link: mailto:katherinenelson@missouri.edu
     icon_pack: far
     icon: envelope
 organizations:
-  - name: Kansas State University
-    url: https://www.k-state.edu/geography/
+  - name: University of Missouri
+    url: https://cafnr.missouri.edu/divisions/school-of-natural-resources/
 education:
   courses:
     - course: PhD Environmental Engineering
@@ -44,4 +44,4 @@ user_groups:
   - Current Members
 highlight_name: false
 ---
-Katherine (Kate) Nelson is an assistant professor of nature-society interactions in the Department of Geography and Geospatial Sciences at Kansas State University. Her research interests include landscape diversity, agricultural adaptation, strategic retreat, vulnerability assessment, and scaling relationships. She leads the SCALes lab, which examines aspects of community and agricultural landscape sustainability ranging from equity of strategic retreat policy implementation, to the relationship between crop diversity and crop yields, to rural sustainability assessment. See a recent CV [here](https://scales-ksu.netlify.app/author/kate-nelson/KatherineNelsonCV_Public.pdf).
+Katherine (Kate) Nelson is an associate professor of sustainability in the School of Natural Resources at the University of Missouri. Her research interests include landscape diversity, agricultural adaptation, strategic retreat, vulnerability assessment, and scaling relationships. She leads the SCALes lab, which examines aspects of community and agricultural landscape sustainability ranging from equity of strategic retreat policy implementation, to the relationship between crop diversity and crop yields, to rural sustainability assessment. See a recent CV [here](https://scales-mu.netlify.app/author/kate-nelson/KatherineNelsonCV_Public.pdf).
