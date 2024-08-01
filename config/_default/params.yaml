@@ -20,18 +20,18 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: ksnelson@ksu.edu
-phone: 785-532-6727
+email: katherinenelson@missouri.edu
+phone: 573-882-7045
 address:
-  street: 1002 Seaton Hall Kansas State University, 920 N. Martin Luther King Jr. Drive
-  city: Manhattan
-  region: KS
-  postcode: '66506'
+  street: 103 Anheuser-Busch Natural Resources Building, University of Missouri
+  city: Columbia  
+  region: MO
+  postcode: '65211'
   country: United States
   country_code: US
 coordinates:
-  latitude: '39.189'
-  longitude: '-96.582'
+  latitude: '38.9427'
+  longitude: '-92.3243'
 
 
 # Site header
