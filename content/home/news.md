@@ -21,5 +21,5 @@ design:
   view: 3
   columns: "2"
   background:
-    color: rgba(81, 40, 136, 0.15)
+    color: rgba(125, 125, 125, 0.15)
 ---
