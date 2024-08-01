@@ -12,7 +12,7 @@ education:
     - course: BS, Geography and Environment
       institution: University of Dhaka, Bangladesh
       year: 2021
- - course: MS, Geography
+   - course: MS, Geography
       institution: Kansas State University
       year: 2024
 superuser: false
