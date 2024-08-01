@@ -1,4 +1,4 @@
-# Website for [SCALes](https://scales-ksu.netlify.app/)
+# Website for [SCALes](https://scales-mu.netlify.app/)
 
 
 
