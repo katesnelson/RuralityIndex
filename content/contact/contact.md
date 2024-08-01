@@ -29,4 +29,4 @@ design:
   columns: '1'
 ---
 
-I welcome inquiries from students interested in joining the Department of Geography and Geospatial Sciences at Kansas State University as Masters or Ph.D. students. Students with interests in: geospatial programming and analysis, social vulnerability, community resilience and sustainability, agricultural sustainability, and flood adaptation can contact me at ksnelson@ksu.edu. Prior experience with statistics, programming, or GIS highly preferred.
+I welcome inquiries from students interested in joining the School of Natural Resources at the University of Missouri as Masters or Ph.D. students. Students with interests in: geospatial programming and analysis, social vulnerability, community resilience and sustainability, agricultural sustainability, and flood adaptation can contact me at katherinenelson@missouri.edu. Prior experience with statistics, programming, or GIS highly preferred.
