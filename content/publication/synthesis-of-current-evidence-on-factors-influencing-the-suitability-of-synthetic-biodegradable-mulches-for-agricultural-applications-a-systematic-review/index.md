@@ -40,7 +40,7 @@ abstract: Mulching practice offers farmers an opportunity to minimize the
   better understanding of the full potential of these products for sustainable
   agriculture.
 draft: false
-url_pdf: https://doi.org/10.1016/j.jrurstud.2022.12.025
+url_pdf: 
 featured: false
 tags:
   - biomulch
