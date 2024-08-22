@@ -6,6 +6,7 @@ publication_types:
 authors:
   - Jean Francois
   - admin
+  - EmilyBurchfield
 doi: " https://doi.org/10.3390/su16166826"
 publication: Sustainability
 abstract: Agricultural diversity, productivity, and human well-being have been
