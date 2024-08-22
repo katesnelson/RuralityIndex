@@ -15,7 +15,7 @@ abstract: Vulnerability, resilience, and sustainability are three concepts
   integrated assessment framework to help guide informed risk-based decision
   making for sustainable and resilient systems.
 slides: null
-url_pdf: https://iopscience.iop.org/article/10.1088/1748-9326/abe88d/pdf
+url_pdf: 
 publication_types:
   - "2"
 authors:
