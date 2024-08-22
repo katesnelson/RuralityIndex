@@ -36,7 +36,6 @@ abstract: Agricultural diversity, productivity, and human well-being have been
 draft: false
 featured: false
 tags:
-  - rurality
   - diversity
 image:
   filename: featured
