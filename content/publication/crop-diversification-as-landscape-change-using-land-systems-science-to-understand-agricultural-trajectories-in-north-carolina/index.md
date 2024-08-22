@@ -31,7 +31,6 @@ abstract: Diversifying crop systems represents a promising pathway to improved
 draft: false
 featured: false
 tags:
-  - rurality
   - diversity
 image:
   filename: featured
