@@ -38,7 +38,7 @@ abstract: Landscape complexity promotes ecosystem services and agricultural
   major crops are grown thus remains an underutilized approach to mitigate
   landscape simplification and to promote ecosystem services and crop yields.
 draft: false
-url_pdf: https://doi.org/10.1016/j.jrurstud.2022.12.025
+url_pdf: 
 featured: false
 tags:
   - diversity
