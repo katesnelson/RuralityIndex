@@ -33,7 +33,7 @@ abstract: Prior research suggests that greater spatial diversity in crops and
   production regimes is stronger, providing reason to be hopeful about
   transitions to agricultural production regimes fit for new climate realities.
 draft: false
-url_pdf: https://doi.org/10.1016/j.jrurstud.2022.12.025
+url_pdf: 
 featured: false
 tags:
   - diversity
