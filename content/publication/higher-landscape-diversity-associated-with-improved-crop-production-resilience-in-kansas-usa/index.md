@@ -36,7 +36,7 @@ abstract: Cropland expansion and agriculture intensification have been the
   important tool within a portfolio of approaches to increase crop resilience
   under highly variable weather conditions.
 draft: false
-url_pdf: https://rdcu.be/ckZGu
+url_pdf: 
 featured: true
 tags:
   - diversity
