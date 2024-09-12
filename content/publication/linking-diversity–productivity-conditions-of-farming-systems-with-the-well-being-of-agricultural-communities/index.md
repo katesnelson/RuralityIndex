@@ -4,7 +4,7 @@ title: Linking Diversity–Productivity Conditions of Farming Systems with the
 publication_types:
   - "2"
 authors:
-  - Jean Francois
+  - jean-ribert-francois
   - admin
   - EmilyBurchfield
 doi: " https://doi.org/10.3390/su16166826"
