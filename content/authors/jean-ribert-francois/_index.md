@@ -6,7 +6,12 @@ bio: My research interests include rural community development and change and
   transformation in community-based systems.
 interests:
   - Rural community development
-social: []
+social:
+  - display:
+      header: false
+    icon_pack: ai
+    icon: google-scholar
+    link: https://scholar.google.com/citations?user=0aVBixAAAAAJ&hl=en
 education:
   courses:
     - course: Agricultural Economics and Rural Development
