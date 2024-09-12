@@ -3,6 +3,8 @@ title: "Congratulations to PhD candidate Michael! "
 date: 2024-05-03T20:00:13.220Z
 draft: false
 featured: false
+authors:
+  - michael-madin
 image:
   filename: featured
   focal_point: Smart
