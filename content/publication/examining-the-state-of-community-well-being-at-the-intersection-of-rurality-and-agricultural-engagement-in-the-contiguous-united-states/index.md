@@ -4,7 +4,7 @@ title: Examining the State of Community Well-Being at the Intersection of
 publication_types:
   - "2"
 authors:
-  - Jean Francois
+  - jean-ribert-francois
   - admin
 doi: https://doi.org/10.1007/s42413-024-00210-7
 publication: International Journal of Community Well-Being
