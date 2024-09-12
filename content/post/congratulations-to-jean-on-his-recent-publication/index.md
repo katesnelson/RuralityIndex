@@ -3,6 +3,8 @@ title: Congratulations to Jean on his recent publication!
 date: 2024-05-03T19:18:05.926Z
 draft: false
 featured: false
+authors:
+  - jean-ribert-francois
 tags:
   - diversity
   - rurality
