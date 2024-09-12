@@ -4,7 +4,12 @@ role: PhD Candidate, Graduate Research Assistant
 avatar_filename: avatar.jpg
 interests:
   - sustainable agriculture
-social: []
+social:
+  - display:
+      header: false
+    icon_pack: ai
+    icon: google-scholar
+    link: https://scholar.google.com/citations?user=OEzHo5gAAAAJ&hl=en
 education:
   courses:
     - course: "M.A. in Geography "
