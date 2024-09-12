@@ -4,6 +4,8 @@ subtitle: ""
 date: 2023-01-05T22:53:08.767Z
 draft: false
 featured: false
+tags:
+  - jean-ribert-francois
 image:
   filename: ""
   focal_point: Smart
