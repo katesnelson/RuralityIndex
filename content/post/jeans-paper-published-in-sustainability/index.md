@@ -7,7 +7,7 @@ header:
 subtitle: ""
 date: 2024-08-22T14:55:57.029Z
 authors:
-  - michael-madin
+  - jean-ribert-francois
 image:
   filename: ""
   focal_point: TOPLEFT
