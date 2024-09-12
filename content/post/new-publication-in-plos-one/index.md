@@ -4,6 +4,9 @@ subtitle: ""
 date: 2024-03-16T02:16:09.340Z
 draft: false
 featured: false
+authors:
+  - admin
+  - michael-madin
 image:
   filename: ""
   focal_point: Smart
