@@ -31,7 +31,7 @@ url_pdf: null
 publication_types:
   - "2"
 authors:
-  - Michael Madin
+  - michael-madin
   - admin
 author_notes: []
 publication: PLOS One
