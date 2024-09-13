@@ -4,4 +4,4 @@
 
 ## Colors
 
-https://teamcolorcodes.com/kansas-state-wildcats-color-codes/
+https://identity.missouri.edu/visual-identity/colors/
