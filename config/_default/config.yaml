@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: SCALes  # Website name
-baseurl: 'https://scales-mu.netlify.app/' # Website URL
+title: RuralityIndex  # Website name
+baseurl: 'https://ruralityindex.netlify.app/' # Website URL
 copyright: '© {2024} Katherine Nelson' # Footer text, e.g. '© {year} Me'
 
 
