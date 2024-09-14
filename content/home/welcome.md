@@ -9,7 +9,7 @@ weight: 10
 title: Community Assets and Relative Rurality (CARR) Index
 subtitle: Data Downloads and Information
 design:
-  columns: "2"
+  columns: "0"
   background:
     image: banner.jpg
     text_color_light: true
