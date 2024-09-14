@@ -28,11 +28,11 @@ main:
     parent: Data Description
   - name: Schools
     url: "/uploads/SchoolDistrictCarr.html"
-    weight: 70
+    weight: 60
     parent: Data Description
   - name: ZIP Code
     url: "/uploads/ZipCodeCarr.html"
-    weight: 70
+    weight: 60
     parent: Data Description
   - name: Quick Download
     url: 
