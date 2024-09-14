@@ -7,7 +7,7 @@ main:
   - name: News
     url: post
     weight: 20
-  - name: People
+  - name: Team
     url: people
     weight: 50  
   - name: Publications
@@ -22,10 +22,17 @@ main:
   - name: About the Index
     url: diversity
     weight: 20
-  - name: Quick Download
-    url: diversity
-    weight: 70
+  - name: Data Description
+    url: 
+    weight: 60
   - name: County
+    url: "/uploads/SchoolDistrictCarr.html"
+    weight: 60
+    parent: Data Description
+  - name: Quick Download
+    url: 
+    weight: 70
+  - name: County .csv
     url: "/uploads/county_carr_public_09132024.csv"
     weight: 70
     parent: Quick Download
