@@ -1,7 +1,7 @@
 ---
 header: 
-  caption: "The SCALes House Graphic: Jean Ribert Francois (2021)"
-  image: "scales house.png"
+  caption:
+  image: 
 layout: docs
-title: Values and Diversity
+title: County
 ---
