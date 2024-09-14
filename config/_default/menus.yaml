@@ -29,6 +29,14 @@ main:
     url: "/uploads/SchoolDistrictCarr.html"
     weight: 60
     parent: Data Description
+  - name: Schools
+    url: "/uploads/SchoolDistrictCarr.html"
+    weight: 70
+    parent: Data Description
+  - name: ZIP Code
+    url: "/uploads/ZipCodeCarr.html"
+    weight: 70
+    parent: Data Description
   - name: Quick Download
     url: 
     weight: 70
@@ -37,11 +45,11 @@ main:
     weight: 70
     parent: Quick Download
   - name: Schools
-    url: "/uploads/SchoolDistrictCarr.html"
+    url: "/uploads/county_carr_public_09132024.csv"
     weight: 70
     parent: Quick Download
   - name: ZIP Code
-    url: "/uploads/ZipCodeCarr.html"
+    url: "/uploads/county_carr_public_09132024.csv"
     weight: 70
     parent: Quick Download
     
