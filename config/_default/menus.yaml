@@ -26,7 +26,7 @@ main:
     url: diversity
     weight: 70
   - name: County
-    url: diversity
+    url: "https://github.com/katesnelson/RuralityIndex/blob/main/data/CountyCarr.html"
     weight: 70
     parent: Quick Download
   - name: Schools
