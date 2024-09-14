@@ -26,7 +26,7 @@ main:
     url: diversity
     weight: 70
   - name: County
-    url: "/uploads/CountyCarr.html"
+    url: "/uploads/county_carr_public_09132024.csv"
     weight: 70
     parent: Quick Download
   - name: Schools
