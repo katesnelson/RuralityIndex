@@ -33,4 +33,8 @@ main:
     url: diversity
     weight: 70
     parent: Quick Download
+  - name: ZIP Code
+    url: county
+    weight: 70
+    parent: Quick Download
     
