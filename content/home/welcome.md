@@ -6,8 +6,8 @@ widget: hero
 widget_id: home
 headless: true
 weight: 10
-title: SCALes
-subtitle: Sustainability of Communities and Agricultural Landscapes
+title: RuralityIndex
+subtitle: Community Assets and Relative Rurality (CARR) Index
 design:
   columns: "1"
   background:
