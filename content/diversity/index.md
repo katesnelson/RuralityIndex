@@ -1,27 +1,56 @@
 ---
 header: 
-  caption: "The SCALes House Graphic: Jean Ribert Francois (2021)"
-  image: "scales house.png"
+  caption: 
+  image: 
 layout: docs
-title: Values and Diversity
+title: About the Index
 ---
 
 
 
-**Values Statement**
+**About the Index**
 
-At SCALes lab, we are committed to:
+For nearly a century, researchers have been trying to define rurality in different ways for different
+uses. Originally, rurality was used to define a space that is clearly delineated from urban-
+industrial areas. For practical purposes, most measures of rurality define the rural-urban divide
+based on population density and size, in part because population size and density information are
+readily available and easy to apply. However, many have argued that, in post-industrial societies,
+rurality must be multi-dimensional to include other measures such as environmental, social, and
+economic resources. Rurality as a concept is more than just how physically isolated people are
+from others. Our new measure, the CARR index, addresses these challenges by incorporating
+measures of services and amenities along with traditional measures of rurality.
+The CARR index offers several advantages over previous rurality measures. First, it conceptually
+addresses basic life functions and well-being by evaluating the availability of modern services
+and amenities. The index incorporates various community assets that meet fundamental needs.
+Second, by focusing on the semi-permanent assets of communities, the CARR index helps
+policymakers and government agencies identify communities with resources that can be utilized
+for growth and sustainability. Third, researchers have noted that broad, aggregated spatial
+analyses of service access can overlook significant variability within these areas. Therefore, finer
+spatial scales are necessary to understand how services and amenities are distributed. In this
+context, CARR’s higher spatial resolution captures within-community diversity, highlighting
+issues like disparities in access to healthy food and healthcare. Because CARR is measured at the
+block-group level, it is applicable to both urban and rural areas, such as counties or census tracts.
+Fourth, as a continuous measure, CARR is more sensitive to small changes compared to
+categorical measures, allowing for more consistent tracking of rurality changes over time due to
+shifts in population density or service availability. Fifth, CARR&#39;s continuous nature provides
+greater nuance and detailed analysis compared to most categorical measures. It can be used
+flexibly in modern regression analyses, allowing it to be divided into deciles or interacted with
+other variables to explore the relationships of rurality alongside other factors. Finally,
+incorporating community assets into CARR alongside traditional rurality measures offers an
+intuitive and consistent approach to evaluating rurality.
 
-- Innovation: Innovation is the basis to the creation of value for oneself and the community. We welcome and respect new ideas from the team members. 
-- Scientific Integrity: We require the highest level of integrity from every group member involved in research activities. We expect that everyone has a working understanding of the complex issues surrounding the responsible conduct of research. We acknowledge that plagiarism and tampering with data is never acceptable. We are committed to making data and research more open and transparent to increase reproduciblity and support the work of the broader research community.
-- Diversity and Inclusion: We wholeheartedly support K-State’s Principles of Community. We acknowledge and value the diversity of cultures and scientific backgrounds. We believe that learning is an unending process, and everyone has something to contribute. 
 
-We acknowledge that in building a productive and friendly professional environment that secures success both individually and as the team, we need to cultivate the spirit of:
-- Professionalism: We seek to cultivate a culture of professionalism among ourselves through collaborative learning, positive professional dialogue, and attitudes.
-- Support: We value mutual support from our members and recognize that everyone contributes to their colleagues’ success. 
-- Respect: Respect is always expected from our group members. We promote a working environment free from discrimination and harassment as stipulated by K-State Policies and required by our own values. K-State prohibits discrimination, including discrimination based on race, color, ethnicity, national origin, sex, sexual orientation, gender identity, religion, age, ancestry, disability, genetic information, military status, or veteran status.
-- Ethics: We abide by the K-State code of ethics and our collective moral values that promote a positive research working environment.
+## Contact Info/Requests
+We will continue to work on collecting various measures of community assets and relative
+rurality and update our CARR index over time. If you have any questions, please contact Kate
+Nelson, Ph.D., University of Missouri, via email: katherinenelson@missouri.edu or Tuan D.
+Nguyen, Ph.D, University of Missouri, via email: tuan.nguyen@missouri.edu. If there are any
+errors with the data, please email us.
 
-Resources:
--	[RCR Frequently Asked Questions](https://www.nsf.gov/pubs/policydocs/rcr/rcrfaqs.jsp#4)
--	[Foundations of Integrity in Research](https://www.ncbi.nlm.nih.gov/books/NBK475948/)
+## Acknowledgement
+This work is derived from a research project by Nelson and Nguyen (2023).
+For the full publication, see Nelson, K. S., &amp; Nguyen, T. D. (2023). Community assets and
+relative rurality index: a multi-dimensional measure of rurality. Journal of Rural Studies, 97,
+322-333. https://doi.org/10.1016/j.jrurstud.2022.12.025
+We thank XXX for their helpful comments and suggestions. Any errors remain our sole
+responsibility.
