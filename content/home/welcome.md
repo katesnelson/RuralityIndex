@@ -6,8 +6,8 @@ widget: hero
 widget_id: home
 headless: true
 weight: 10
-title: RuralityIndex
-subtitle: Community Assets and Relative Rurality (CARR) Index
+title: Community Assets and Relative Rurality (CARR) Index
+subtitle: Data Downloads and Information
 design:
   columns: "1"
   background:
