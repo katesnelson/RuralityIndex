@@ -30,11 +30,11 @@ main:
     weight: 70
     parent: Quick Download
   - name: Schools
-    url: diversity
+    url: "/uploads/SchoolDistrictCarr.html"
     weight: 70
     parent: Quick Download
   - name: ZIP Code
-    url: county
+    url: "/uploads/ZipCodeCarr.html"
     weight: 70
     parent: Quick Download
     
