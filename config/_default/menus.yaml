@@ -29,4 +29,8 @@ main:
     url: diversity
     weight: 70
     parent: Quick Download
+  - name: Schools
+    url: diversity
+    weight: 70
+    parent: Quick Download
     
