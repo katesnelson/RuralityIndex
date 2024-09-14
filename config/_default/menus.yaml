@@ -25,10 +25,6 @@ main:
   - name: Quick Download
     url: diversity
     weight: 70
-  - name: County
-    url: diversity
-    weight: 70
-    parent: Quick Download
   - name: Schools
     url: diversity
     weight: 70
