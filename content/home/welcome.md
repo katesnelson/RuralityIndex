@@ -11,10 +11,7 @@ subtitle: Data Downloads and Information
 design:
   columns: "0"
   background:
-    image: banner.jpg
-    text_color_light: true
-    image_darken: 0.85
-    padding: 100px 0px 150px 0px
+    color: rgba(215, 215, 215, 0.15)
 hero_media: logo_b_cropped.png
 ---
 The CARR (Community assets and relative rurality) index is a continuous, multidimensional
