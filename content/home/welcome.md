@@ -23,4 +23,5 @@ design:
     text_color_light: true
 
 ---
-<center> 🧱 The CARR index is a continuous, multidimensional measure of rurality based on the concept of sustainable development that integrates measures of environmental, social, and economic resources. 🧱</center> 
+columns : '1'
+🧱 The CARR index is a continuous, multidimensional measure of rurality based on the concept of sustainable development that integrates measures of environmental, social, and economic resources. 🧱
