@@ -17,6 +17,7 @@ cta_alt:
   url: 'https://ruralityindex.netlify.app/about/'
   label: About the index
 design:
+  columns: "1"
   background:
     gradient_end: '#1976d2'
     gradient_start: '#004ba0'
