@@ -1,12 +1,12 @@
 +++
-# Teaching experience
+# Data Documentation
 
 widget = "widget_page"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = false # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Teaching"
+title = "Data Documentation"
 subtitle = ""
 
 [design]
@@ -45,6 +45,7 @@ subtitle = ""
  css_class = ""
 +++
 
+Variants of the original CARR index (2019 edition) have been produced for several common spatial boundaries, including counties, shcool districts, and ZIP codes. Each variant was developed using area-weighted averages of the original block group spatial unit index. Documents describing each dataset can be found below.
 
 **Resources**
 
