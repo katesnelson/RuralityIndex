@@ -23,7 +23,7 @@ main:
     url: 
     weight: 60
   - name: County
-    url: "/uploads/SchoolDistrictCarr.html"
+    url: "/uploads/CountyDistrictCarr.html"
     weight: 60
     parent: Data Description
   - name: Schools
@@ -32,6 +32,14 @@ main:
     parent: Data Description
   - name: ZIP Code
     url: "/uploads/ZipCodeCarr.html"
+    weight: 60
+    parent: Data Description
+  - name: Tribal
+    url: "/uploads/TribalCarr.html"
+    weight: 60
+    parent: Data Description
+  - name: Tracts
+    url: "/uploads/TractCarr.html"
     weight: 60
     parent: Data Description
   - name: Quick Download
