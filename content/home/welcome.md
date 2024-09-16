@@ -1,13 +1,36 @@
 ---
-advanced:
-  ? css_style
-  ? css_class
 widget: hero
-widget_id: home
-headless: false
-weight: 10
-title: SCALes
-subtitle: Sustainability of Communities and Agricultural Landscapes
+headless: true  # This file represents a page section.
 
+# Put Your Section Options Here (title, background, etc.) ...
+title: My Hero
+weight: 10 # Position of section on the page
+
+# Hero image (optional). Enter filename of an image in the assets/media/ folder.
+hero_media: ''
+
+# Call to action links (optional).
+#   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
+#   Remove a link/note by deleting a cta/note block.
+cta:
+  url: 'https://wowchemy.com'
+  label: Get Started
+  icon_pack: fas
+  icon: download
+cta_alt:
+  url: 'https://wowchemy.com'
+  label: View Documentation
+
+# Note. An optional note to show underneath the links.
+cta_note:
+  label: ''
+
+# Choose an optional background color, gradient, image, or video
+design:
+  background:
+    gradient_end: '#1976d2'
+    gradient_start: '#004ba0'
+    text_color_light: true
 ---
-The SCALes (**S**ustainability of **C**ommunities and **A**gricultural **L**andscap**es**) lab examines the joint influences of environmental hazards, land use, and socioeconomic conditions in socioenvironmental systems. Our goal is to identify policy and practice solutions that promote social equity and the preservation of natural resources and ecosystems for future generations.
+
+Add an intro paragraph here.
