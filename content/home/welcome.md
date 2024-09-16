@@ -5,7 +5,7 @@ advanced:
 widget: hero
 widget_id: home
 headless: false
-weight: 100
+weight: 1
 title: SCALes
 subtitle: Sustainability of Communities and Agricultural Landscapes
 design:
