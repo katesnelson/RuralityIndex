@@ -1,41 +1,34 @@
 ---
 title: Tuan Nguyen
 role: Associate Professor, SCALes PI
-avatar_filename: avatar.jpg
-bio: My research interests include landscape diversity, agricultural adaptation,
-  strategic retreat, vulnerability assessment, and scaling relationships.
+avatar_filename: tuan.jpg
+bio: Tuan D. Nguyen is an associate professor in the Department of Educational Leadership and Policy Analysis at the University of Missouri. 
 interests:
-  - Adaptation
-  - Landscape Diversity
-  - Strategic Retreat
-  - Rural Sustainability
-  - Scaling Relationships
+  - Teacher policy
+  - Teacher labor market
+  - Rurality and rural education
+  - Causal inference and meta-analyses
 social:
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=dhqh44YAAAAJ&hl=en
+    link: [https://scholar.google.com/citations?user=dhqh44YAAAAJ&hl=en](https://scholar.google.com/citations?user=4L7xCD8AAAAJ&hl=en&oi=ao)
   - display:
       header: false
-    link: https://github.com/katesnelson
-    icon_pack: fab
-    icon: github
-  - display:
-      header: false
-    link: mailto:katherinenelson@missouri.edu
+    link: mailto: tuan.nguyen@missouri.edu
     icon_pack: far
     icon: envelope
 organizations:
   - name: University of Missouri
-    url: https://cafnr.missouri.edu/divisions/school-of-natural-resources/
+    url: [https://cafnr.missouri.edu/divisions/school-of-natural-resources/](https://cehd.missouri.edu/)
 education:
   courses:
-    - course: PhD Environmental Engineering
+    - course: PhD Education Leadership and Policy Studie
       institution: Vanderbilt University
       year: 2018
-    - course: MS Environmental Engineering
+    - course: M.A.T. Mathematics; Secondary Education Certification
       institution: Washington University in St. Louis
       year: 2009
-    - course: BS Environmental Engineering
+    - course: B.A.; B.S. Mathematics and Physics Dual Degree
       institution: University of Oklahoma
       year: 2006
 email: ""
@@ -44,4 +37,4 @@ user_groups:
   - Current Members
 highlight_name: false
 ---
-Katherine (Kate) Nelson is an associate professor of sustainability in the School of Natural Resources at the University of Missouri. Her research interests include landscape diversity, agricultural adaptation, strategic retreat, vulnerability assessment, and scaling relationships. She leads the SCALes lab, which examines aspects of community and agricultural landscape sustainability ranging from equity of strategic retreat policy implementation, to the relationship between crop diversity and crop yields, to rural sustainability assessment. See a recent CV [here](https://scales-mu.netlify.app/author/kate-nelson/KatherineNelsonCV_Public.pdf).
+Tuan D. Nguyen is an associate professor in the Department of Educational Leadership and Policy Analysis at the University of Missouri. He applies rigorous quantitative methods (quasi-experimental designs and meta-analysis) to examine 1) the teacher labor markets, particularly looking at the factors that drive teacher attrition and retention, and 2) the effects and implications of teacher policies and education policies intended for social equity and school improvement. 
