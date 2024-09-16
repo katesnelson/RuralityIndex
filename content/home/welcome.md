@@ -7,6 +7,7 @@ widget_id: home
 headless: true
 weight: 5
 title: Community Assets and Relative Rurality (CARR)
+subtitle: 🧱 The CARR index is a continuous, multidimensional measure of rurality based on the concept of sustainable development that integrates measures of environmental, social, and economic resources. 🧱
 cta:
   url: 'https://wowchemy.com'
   label: Get Started
@@ -23,9 +24,3 @@ design:
     text_color_light: true
 columns : '1'
 ---
-{
-    width: 100%;
-    padding: 0px;
-    margin: 0px;
-    border: none;
-}🧱 The CARR index is a continuous, multidimensional measure of rurality based on the concept of sustainable development that integrates measures of environmental, social, and economic resources. 🧱
