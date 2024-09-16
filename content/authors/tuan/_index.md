@@ -9,7 +9,7 @@ interests:
   - Rurality and rural education
   - Causal inference and meta-analyses
 social:
-- icon: google-scholar
+  - icon: google-scholar
     icon_pack: ai
     link: [https://scholar.google.com/citations?user=dhqh44YAAAAJ&hl=en](https://scholar.google.com/citations?user=4L7xCD8AAAAJ&hl=en&oi=ao)
   - display:
