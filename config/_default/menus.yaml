@@ -49,8 +49,8 @@ main:
     url: "/uploads/county_carr_public_09132024.csv"
     weight: 70
     parent: Quick Download
-  - name: Schools .csv
-    url: "/uploads/county_carr_public_09132024.csv"
+  - name: Schools
+    url: "/uploads/Schools.zip"
     weight: 70
     parent: Quick Download
   - name: ZIP Code .csv
