@@ -17,7 +17,7 @@ main:
     url: project
     weight: 30
   - name: About the Index
-    url: diversity
+    url: about
     weight: 20
   - name: Data Description
     url: 
