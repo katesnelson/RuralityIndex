@@ -1,7 +1,7 @@
 ---
 title: Tuan Nguyen
 role: Associate Professor, SCALes PI
-avatar_filename: Tuan-Nguyen-2024-web.jpg
+avatar_filename: avatar.jpg
 bio: Tuan D. Nguyen is an associate professor in the Department of Educational Leadership and Policy Analysis at the University of Missouri. 
 interests:
   - Teacher policy
