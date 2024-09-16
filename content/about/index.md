@@ -16,15 +16,22 @@ industrial areas. For practical purposes, most measures of rurality define the r
 based on population density and size, in part because population size and density information are
 readily available and easy to apply. However, many have argued that, in post-industrial societies,
 rurality must be multi-dimensional to include other measures such as environmental, social, and
-economic resources. Rurality as a concept is more than just how physically isolated people are
+economic resources. 
+
+Rurality as a concept is more than just how physically isolated people are
 from others. Our new measure, the CARR index, addresses these challenges by incorporating
 measures of services and amenities along with traditional measures of rurality.
-The CARR index offers several advantages over previous rurality measures. First, it conceptually
+The CARR index offers several advantages over previous rurality measures. 
+
+First, it conceptually
 addresses basic life functions and well-being by evaluating the availability of modern services
 and amenities. The index incorporates various community assets that meet fundamental needs.
+
 Second, by focusing on the semi-permanent assets of communities, the CARR index helps
 policymakers and government agencies identify communities with resources that can be utilized
-for growth and sustainability. Third, researchers have noted that broad, aggregated spatial
+for growth and sustainability. 
+
+Third, researchers have noted that broad, aggregated spatial
 analyses of service access can overlook significant variability within these areas. Therefore, finer
 spatial scales are necessary to understand how services and amenities are distributed. In this
 context, CARR’s higher spatial resolution captures within-community diversity, highlighting
