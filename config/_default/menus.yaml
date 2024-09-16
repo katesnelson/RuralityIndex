@@ -46,7 +46,7 @@ main:
     weight: 70
     parent: Quick Download
   - name: ZIP Code .csv
-    url: "/uploads/county_carr_public_09132024.csv"
+    url: "https://zenodo.org/records/8072187/files/carr_public_v1.csv?download=1"
     weight: 70
     parent: Quick Download
     
