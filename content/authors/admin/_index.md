@@ -1,6 +1,6 @@
 ---
 title: Kate Nelson
-role: Associate Professor, SCALes PI
+role: Associate Professor
 avatar_filename: avatar.jpg
 bio: My research interests include landscape diversity, agricultural adaptation,
   strategic retreat, vulnerability assessment, and scaling relationships.
