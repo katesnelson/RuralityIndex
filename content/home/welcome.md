@@ -6,7 +6,7 @@ widget: hero
 widget_id: home
 headless: true
 weight: 5
-title: SCALes
+title: Community Assets and Relative Rurality (CARR)
 cta:
   url: 'https://wowchemy.com'
   label: Get Started
@@ -15,7 +15,7 @@ cta:
 cta_alt:
   url: 'https://wowchemy.com'
   label: View Documentation
-subtitle: Sustainability of Communities and Agricultural Landscapes
+subtitle: 
 design:
   background:
     gradient_end: '#1976d2'
@@ -23,4 +23,4 @@ design:
     text_color_light: true
 
 ---
-The SCALes (**S**ustainability of **C**ommunities and **A**gricultural **L**andscap**es**) lab examines the joint influences of environmental hazards, land use, and socioeconomic conditions in socioenvironmental systems. Our goal is to identify policy and practice solutions that promote social equity and the preservation of natural resources and ecosystems for future generations.
+🧱 The CARR index is a continuous, multidimensional measure of rurality based on the concept of sustainable development that integrates measures of environmental, social, and economic resources. 🧱
