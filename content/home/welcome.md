@@ -19,7 +19,7 @@ cta_alt:
 design:
   columns: "1"
   background:
-     image: banner.jpg
+    image: banner.jpg
     text_color_light: true
     image_darken: 0.85
     padding: 100px 0px 150px 0px
