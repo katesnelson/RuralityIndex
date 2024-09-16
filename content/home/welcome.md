@@ -4,7 +4,7 @@ advanced:
   ? css_class
 widget: hero
 widget_id: home
-headless: false
+headless: true
 weight: 5
 title: SCALes
 cta:
