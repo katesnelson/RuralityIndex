@@ -11,15 +11,15 @@ interests:
 social:
   - icon: google-scholar
     icon_pack: ai
-    link: [https://scholar.google.com/citations?user=dhqh44YAAAAJ&hl=en](https://scholar.google.com/citations?user=4L7xCD8AAAAJ&hl=en&oi=ao)
+    link: https://scholar.google.com/citations?user=4L7xCD8AAAAJ&hl=en&oi=ao
   - display:
       header: false
-    link: mailto: tuan.nguyen@missouri.edu
+    link: mailto:tuan.nguyen@missouri.edu
     icon_pack: far
     icon: envelope
 organizations:
   - name: University of Missouri
-    url: [https://cafnr.missouri.edu/divisions/school-of-natural-resources/](https://cehd.missouri.edu/)
+    url: https://cehd.missouri.edu/ 
 education:
   courses:
     - course: PhD Education Leadership and Policy Studie
