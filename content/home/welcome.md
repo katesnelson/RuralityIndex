@@ -12,7 +12,7 @@ design:
   columns: "0"
   background:
     color: rgba(215, 215, 215, 0.15)
-hero_media: logo_b_cropped.png
+#hero_media: logo_b_cropped.png
 ---
 The CARR (Community assets and relative rurality) index is a continuous, multidimensional
 measure of rurality based on the concept of sustainable development that integrates measures
