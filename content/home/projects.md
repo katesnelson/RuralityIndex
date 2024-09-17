@@ -5,7 +5,7 @@ advanced:
 widget: portfolio
 widget_id: Research
 headless: true
-weight: 40
+weight: 30
 title: Data Documentation
 subtitle: ""
 active: true
