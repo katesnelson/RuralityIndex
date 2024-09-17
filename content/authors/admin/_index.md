@@ -41,7 +41,7 @@ education:
 email: ""
 superuser: true
 user_groups:
-  - Current Members
+  - Principal Investigators
 highlight_name: false
 ---
 Katherine (Kate) Nelson is an associate professor of sustainability in the School of Natural Resources at the University of Missouri. Her research interests include landscape diversity, agricultural adaptation, strategic retreat, vulnerability assessment, and scaling relationships. She leads the [SCALes lab](https://scales-mu.netlify.app/), which examines aspects of community and agricultural landscape sustainability ranging from equity of strategic retreat policy implementation, to the relationship between crop diversity and crop yields, to rural sustainability assessment. See a recent CV [here](https://scales-mu.netlify.app/author/kate-nelson/KatherineNelsonCV_Public.pdf).
