@@ -45,7 +45,7 @@ design:
   view: 5
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
+  flip_alt_rows: true
 ---
 
 Variants of the original CARR index (2019 edition) have been produced for several common spatial boundaries, including counties, shcool districts, and ZIP codes. Each variant was developed using area-weighted averages of the original block group spatial unit index. Detailed information about each dataset can be found below.
