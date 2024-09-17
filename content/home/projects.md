@@ -6,7 +6,7 @@ widget: portfolio
 widget_id: Research
 headless: true
 weight: 40
-title: Research Areas
+title: Data Documentation
 subtitle: ""
 active: true
 content:
