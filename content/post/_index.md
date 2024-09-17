@@ -1,5 +1,5 @@
 ---
-title: News
+title: News and Updates
 view: 2
 header:
   caption: ""
