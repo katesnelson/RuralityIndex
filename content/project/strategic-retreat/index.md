@@ -3100,7 +3100,6 @@ vertical-align: -.125em;
 
 
 <section id="county-carr" class="level2">
-<h2 class="anchored" data-anchor-id="county-carr">County CARR</h2>
 <p>To operationalize CARR for county boundaries we computed area-weighted averages of the original block-group scale CARR. In addition to presenting the area weighted average CARR scores, we also independently calculated area weighted averages for each constituent component of CARR. U.S. census urban-rural categorizations and USDA ERS rural urban continuum code (RUCC) classifications were summarized by taking the mode across all block groups intersecting with a county. <em>Note: RUCC was originally constructed for U.S. counties, so in this case the modal operation should simply return the original RUCC class.</em></p>
 <p>The values of the county CARR scores fall within the original range of CARR scores (0-1), where a value of 0 means very urban with high concentrations of services and amenities and a value of 1 means very rural with low concentrations of services and amenities.</p>
 <p>However, the distribution of CARR by counties is shifted towards higher scores and the range is compressed (as should be expected from the aggregation process). The minimum score is <strong>0.41</strong>, the maximum score is <strong>0.87</strong>, and the mean score is <strong>0.57</strong>. (In the original CARR the mean value was ~0.5.)</p>
