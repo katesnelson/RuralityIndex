@@ -1,6 +1,6 @@
 # SITE SETUP
-# Guide: https://wowchemy.com/docs/getting-started/
-# Documentation: https://wowchemy.com/docs/
+# Guide: https://docs.hugoblox.com/tutorial/
+# Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
@@ -41,10 +41,21 @@ main_menu:
   align: r
   show_logo: true
   show_language: false
-  show_day_night: false
+  show_day_night: true
   show_search: true
   highlight_active_link: false
 
+# Site footer
+
+footer:
+  copyright:
+    notice: '© {2024} Katherine Nelson. This work is licensed under {license}'
+    license:
+      enable: true
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
+      
 # Localization
 
 date_format: 'Jan 2, 2006'
@@ -57,41 +68,45 @@ highlight: false
 math: false
 diagram: false
 privacy_pack: false
-show_related:
-  post: true
-  project: true
-  publication: true
-  talk: true
-reading_time: true
-section_pager: false
-sharing: true
-copyright_license:
-  enable: false
-  allow_derivatives: false
-  share_alike: true
-  allow_commercial: false
-  notice: 'This work is licensed under {license}'
-plugins_js: []
+repository:
+  url: 'https://github.com/<username>/<repository>'
+  content_dir: content
+  branch: main
+#show_related:
+#  post: true
+#  project: true
+ # publication: true
+ # talk: true
+#reading_time: true
+#section_pager: false
+#sharing: true
+#copyright_license:
+#  enable: false
+#  allow_derivatives: false
+#  share_alike: true
+#  allow_commercial: false
+#  notice: 'This work is licensed under {license}'
+#plugins_js: []
 avatar:
   gravatar: false
   shape: circle
 publications:
   date_format: January 2006
   citation_style: apa
-projects:
-  post_view: 2
-  publication_view: 2
-  talk_view: 2
+#projects:
+#  post_view: 2
+#  publication_view: 2
+#  talk_view: 2
 comments:
   provider: ''
-  commentable:
-    page: true
-    post: true
-    docs: true
-    project: true
-    publication: true
-    talk: true
-  disqus:
+#  commentable:
+ #   page: true
+ #  post: true
+ #   docs: true
+  #  project: true
+  #  publication: true
+ #   talk: true
+#  disqus:
     shortname: ''
     show_count: true
   commento:
@@ -119,3 +134,12 @@ cms:
 icon:
   pack:
     ai: true
+    
+# Extensions
+
+extensions:
+  decap_cms:
+    branch: main
+    local_backend: false
+  academicons:
+    enable: true
