@@ -19,9 +19,9 @@ cta_alt:
 design:
   columns: "1"
   background:
-    gradient_end: '#1976d2'
-    gradient_start: '#004ba0'
-    text_color_light: true
+    gradient_end: '#FFFFFF'
+    gradient_start: '#F7F7F7'
+    text_color_light: false
 hero_media: carr_orig_map.jpeg
 ---
 ***The CARR index is a continuous, multidimensional measure of rurality based on the concept of sustainable development that integrates measures of environmental, social, and economic resources.***
