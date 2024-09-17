@@ -3083,7 +3083,7 @@ vertical-align: -.125em;
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">County CARR Description</h1>
+      <h1 class="title">School District CARR Description</h1>
                       </div>
   </div>
     
@@ -3150,7 +3150,7 @@ vertical-align: -.125em;
 </div>
 </div>
 </div>
-<p>The three accessibility components’ spatial distributions are consistent with the original CARR as well. Larger values of the first accessibility factor are associated with greater distances to amenities. Larger values of the second accessibility factor are associated with increased distance to essential services. Larger values of the third accessibility factor are associated with greater distances to both amenities and natural resource extraction (e.g. peri-urban).</p>
+<p>The three accessibility components’ spatial distributions are consistent with the original CARR as well. Larger values of the first accessibility factor are associated with greater distances to amenities. Larger values of the second accessibility factor are associated with increased distance to essential services. Larger values of the third accessibility factor are associated with greater distances to both amenities and natural resource extraction (e.g. peri-urban).</p>
 <div class="cell">
 <div class="cell-output-display">
 <div>
