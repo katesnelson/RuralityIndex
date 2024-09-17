@@ -45,8 +45,8 @@ main:
   - name: Quick Download
     url: 
     weight: 70
-  - name: County .csv
-    url: "/uploads/county_carr_public_09132024.csv"
+  - name: County 
+    url: "/uploads/county_carr_public_rescale_091324.zip.zip"
     weight: 70
     parent: Quick Download
   - name: Schools
