@@ -1,12 +1,12 @@
 ---
-title: My page
+title: Data Documentation
 type: landing
 
 sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Data Documentation
       subtitle: My subtitle
       text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
       filters:
