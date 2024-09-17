@@ -12,7 +12,7 @@ design:
   columns: "1"
   background:
     image: carr_orig_map.jpeg
-    image_darken: 0
+    image_darken: 1
     image_parallax: false
     image_position: center
     image_size: cover
