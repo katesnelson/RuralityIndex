@@ -34,7 +34,7 @@ education:
 email: ""
 superuser: true
 user_groups:
-  - Current Members
+  - Principal Investigators
 highlight_name: false
 ---
 Tuan D. Nguyen is an associate professor in the Department of Educational Leadership and Policy Analysis at the University of Missouri. He applies rigorous quantitative methods (quasi-experimental designs and meta-analysis) to examine 1) the teacher labor markets, particularly looking at the factors that drive teacher attrition and retention, and 2) the effects and implications of teacher policies and education policies intended for social equity and school improvement. 
