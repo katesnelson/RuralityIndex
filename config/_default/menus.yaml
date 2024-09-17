@@ -50,10 +50,22 @@ main:
     weight: 70
     parent: Quick Download
   - name: Schools
-    url: "/uploads/Schools.zip"
+    url: "/uploads/school_carr_public_09132024.zip"
     weight: 70
     parent: Quick Download
-  - name: ZIP Code .csv
+  - name: ZIP Code 
+    url: "/uploads/zipcode_carr_public_09132024.zip"
+    weight: 70
+    parent: Quick Download
+  - name: Tribal Areas
+    url: "/uploads/tribal_carr_public_09132024.zip"
+    weight: 70
+    parent: Quick Download
+  - name: Tracts
+    url: "/uploads/tract_carr_public_09132024.zip"
+    weight: 70
+    parent: Quick Download
+  - name: Original CARR
     url: "https://zenodo.org/records/8072187/files/carr_public_v1.csv?download=1"
     weight: 70
     parent: Quick Download
