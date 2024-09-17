@@ -19,29 +19,14 @@ main:
   - name: About the Index
     url: about
     weight: 10
-  - name: Data Description
-    url: 
-    weight: 60
-  - name: County
-    url: "/uploads/CountyCarr.html"
-    weight: 60
-    parent: Data Description
-  - name: Schools
-    url: "/uploads/SchoolDistrictCarr.html"
-    weight: 60
-    parent: Data Description
-  - name: ZIP Code
-    url: "/uploads/ZipCodeCarr.html"
-    weight: 60
-    parent: Data Description
-  - name: Tribal
-    url: "/uploads/TribalCarr.html"
-    weight: 60
-    parent: Data Description
-  - name: Tracts
-    url: "/uploads/TractCarr.html"
-    weight: 60
-    parent: Data Description
+  #- name: Data Description
+  #  url: 
+  #  weight: 60
+ # - name: County
+  #  url: "/uploads/CountyCarr.html"
+  # weight: 60
+  #  parent: Data Description
+  
   - name: Quick Download
     url: 
     weight: 70
