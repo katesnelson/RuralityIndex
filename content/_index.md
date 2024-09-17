@@ -8,17 +8,18 @@ sections:
   - block: hero
     content:
       title: |
-        Community Assets and Relative Rurality (CARR)
+        Wowchemy
+        Research Group
       image:
-        filename: carr_orig_map.jpeg
+        filename: welcome.jpg
       text: |
         <br>
         
-        The **CARR index** is a continuous, multidimensional measure of rurality based on the concept of sustainable development that integrates measures of environmental, social, and economic resources.
+        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
   
   - block: collection
     content:
-      title: News and Updates
+      title: Latest News
       subtitle:
       text:
       count: 5
@@ -44,7 +45,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: carr_orig_map.jpeg
+          filename: coders.jpg
           filters:
             brightness: 1
           parallax: false
@@ -57,29 +58,23 @@ sections:
 
   - block: collection
     content:
-      title: Featured Publications
+      title: Latest Preprints
       text: ""
       count: 5
       filters:
         folders:
           - publication
-        featured_only: true
+        publication_type: 'article'
     design:
-      view: article-grid
-      columns: 2
+      view: citation
+      columns: '1'
 
-  - block: portfolio
-  - id: projects
+  - block: markdown
     content:
-      title: Data Documentation
-      text: ""
-      filters:
-        folders:
-          - project
-design:
-         columns: '1'
-      # Choose a listing view
-      view: showcase
-      # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+    design:
+      columns: '1'
 ---
