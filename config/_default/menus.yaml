@@ -14,7 +14,7 @@ main:
   #  url: contact
   #  weight: 80
   - name: Documentation
-    url: documentation
+    url: project
     weight: 20
   - name: About the Index
     url: about
