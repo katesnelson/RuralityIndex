@@ -14,6 +14,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=dhqh44YAAAAJ&hl=en
+  - icon: cv
+    icon_pack: ai
+    link: uploads/KatherineNelsonCV_Public.pdf
   - display:
       header: false
     link: https://github.com/katesnelson
