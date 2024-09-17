@@ -27,4 +27,4 @@ design:
       - "0"
 ---
 
-Here are some projects we are currently working on. 
+Documentation on each of the CARR variants can be found here. 
