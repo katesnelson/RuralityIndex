@@ -24,9 +24,7 @@ social:
     link: mailto:katherinenelson@missouri.edu
     icon_pack: far
     icon: envelope
- - icon: cv
-    icon_pack: ai
-    link: uploads/KatherineNelsonCV_Public.pdf
+
 organizations:
   - name: University of Missouri
     url: https://cafnr.missouri.edu/divisions/school-of-natural-resources/
