@@ -17,7 +17,7 @@ design:
     image_position: center
     image_size: cover
     text_color_light: true
-    color: rgba(27, 3, 3, 0)
+    color: rgba(215, 215, 215, 0.15)
   spacing:
     padding:
       - 20px
