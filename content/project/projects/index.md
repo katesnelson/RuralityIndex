@@ -4,7 +4,7 @@ type: landing
 
 sections:
   - block: portfolio
-    id: projects
+    id: Documentation
     content:
       title: Data Documentation
       subtitle: My subtitle
