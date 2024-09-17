@@ -9,8 +9,9 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
+title: Data Documentation
 subtitle: ''
+text: Variants of the original CARR index (2019 edition) have been produced for several common spatial boundaries, including counties, shcool districts, and ZIP codes. Each variant was developed using area-weighted averages of the original block group spatial unit index. Detailed information about each dataset can be found below.
 
 content:
   # Page type to display. E.g. project.
