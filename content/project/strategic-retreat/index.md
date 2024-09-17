@@ -3090,24 +3090,7 @@ vertical-align: -.125em;
   </div>
     
   
-  <div class="quarto-title-meta">
 
-      <div>
-      <div class="quarto-title-meta-heading">Author</div>
-      <div class="quarto-title-meta-contents">
-               <p>Kate Nelson &amp; Tuan Nguyen </p>
-            </div>
-    </div>
-      
-      <div>
-      <div class="quarto-title-meta-heading">Published</div>
-      <div class="quarto-title-meta-contents">
-        <p class="date">September 12, 2024</p>
-      </div>
-    </div>
-    
-      
-    </div>
     
   
   </header><div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
@@ -3116,12 +3099,6 @@ vertical-align: -.125em;
 
 
 
-
-
-<section id="carr" class="level2">
-<h2 class="anchored" data-anchor-id="carr">CARR</h2>
-<p>The CARR (Community assets and relative rurality) index is a continuous, multidimensional measure of rurality based on the concept of sustainable development that integrates measures of environmental, social, and economic resources. The index incorporates traditional rurality measures such as population density, distance from metropolitan areas, and developed area with measures of availability and accessibility of 70 different infrastructure types that support essential community services and community amenities. The index uses data last updated in 2019 and was originally constructed for census block-groups in the coterminous United States. The original dataset <span class="citation" data-cites="nelson2022">(<a href="#ref-nelson2022" role="doc-biblioref">K. Nelson and Nguyen 2022</a>)</span> can be found at Zenodo and was described in an article in the Journal of Rural Studies <span class="citation" data-cites="nelson2023a">(<a href="#ref-nelson2023a" role="doc-biblioref">K. S. Nelson and Nguyen 2023</a>)</span>.</p>
-</section>
 <section id="county-carr" class="level2">
 <h2 class="anchored" data-anchor-id="county-carr">County CARR</h2>
 <p>To operationalize CARR for county boundaries we computed area-weighted averages of the original block-group scale CARR. In addition to presenting the area weighted average CARR scores, we also independently calculated area weighted averages for each constituent component of CARR. U.S. census urban-rural categorizations and USDA ERS rural urban continuum code (RUCC) classifications were summarized by taking the mode across all block groups intersecting with a county. <em>Note: RUCC was originally constructed for U.S. counties, so in this case the modal operation should simply return the original RUCC class.</em></p>
@@ -3176,7 +3153,7 @@ vertical-align: -.125em;
 </div>
 </div>
 </div>
-<p>The three accessibility components’ spatial distributions are consistent with the original CARR as well. Larger values of the first accessibility factor are associated with greater distances to amenities. Larger values of the second accessibility factor are associated with increased distance to essential services. Larger values of the third accessibility factor are associated with greater distances to both amenities and natural resource extraction (e.g. peri-urban).</p>
+<p>The three accessibility components’ spatial distributions are consistent with the original CARR as well. Larger values of the first accessibility factor are associated with greater distances to amenities. Larger values of the second accessibility factor are associated with increased distance to essential services. Larger values of the third accessibility factor are associated with greater distances to both amenities and natural resource extraction (e.g. peri-urban).</p>
 <div class="cell">
 <div class="cell-output-display">
 <div>
@@ -3227,14 +3204,7 @@ vertical-align: -.125em;
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
-<div id="ref-nelson2023a" class="csl-entry" role="listitem">
-Nelson, Katherine S., and Tuan D. Nguyen. 2023. <span>“Community Assets and Relative Rurality Index: A Multi-Dimensional Measure of Rurality.”</span> <em>Journal of Rural Studies</em> 97 (January): 322–33. <a href="https://doi.org/10.1016/j.jrurstud.2022.12.025">https://doi.org/10.1016/j.jrurstud.2022.12.025</a>.
-</div>
-<div id="ref-nelson2022" class="csl-entry" role="listitem">
-Nelson, Katherine, and Tuan Nguyen. 2022. <span>“Community Assets and Relative Rurality Index.”</span> Zenodo. <a href="https://doi.org/10.5281/ZENODO.8072187">https://doi.org/10.5281/ZENODO.8072187</a>.
-</div>
-</div></section></div></main>
+</section></div></main>
 <!-- /main column -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
