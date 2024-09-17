@@ -20,7 +20,7 @@ design:
   columns: "1"
   background:
     image: banner.jpg
-    text_color_light: true
+    text_color_light: false
     image_darken: 0.85
     padding: 100px 0px 150px 0px
 hero_media: carr_orig_map.jpeg
