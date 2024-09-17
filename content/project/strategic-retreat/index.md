@@ -1,5 +1,5 @@
 ---
-title: Flood Risk, Flood Policy, and Strategic Retreat
+title: CARR for Counties
 date: 2021-08-06T19:42:55.020Z
 summary: ""
 draft: false
@@ -15,11 +15,12 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-## F﻿lood Risk
 
-Paxico, Kansas is a rural small town with just over 200 residents. The majority of the town lies in a high flood risk zone, which has experienced limited economic development for over a generation. Local watershed districts and community leaders have consulted an engineering firm to reduce the risk of flooding, but proposed solutions are cost-prohibitive for this small community. SCALes PI Kate Nelson is part of a community science team composed of scientists, architects, and engineers familiar with federal flood risk programs and flood mitigation that have explored tangible steps that Paxico can take to reduce its flood risk. This project has been organized via the [American Geophysical Union's Thriving Earth Exchange](https://thrivingearthexchange.org/project/paxico-ks/) program.
+A variant of the original CARR index (2019 edition)  was calculated for county boundaries using area-weighted averages of the original CARR index at the block group scale. 
 
-A storymap documenting much of the project can be found [here](https://storymaps.arcgis.com/stories/e4cabd52b3f54511820e3d58b3cbe498).
+The county CARR data in .csv and STATA .dta format and the metadata for these files can be downloaded at [this link that is not live yet](thisfakelink.com). This data is also published and available for download at the long-term data repository [Zenodo](thisfakelink.com).
+
+A file containing a basic descriptive analysis and visualizations can be downloaded [here](https://yetanotherfakelink.com).
 
 
 
