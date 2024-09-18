@@ -1,7 +1,4 @@
-# Website for [SCALes](https://scales-mu.netlify.app/)
+# [RuralityIndex](https://ruralityindex.com)
 
 
 
-## Colors
-
-https://identity.missouri.edu/visual-identity/colors/
