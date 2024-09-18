@@ -12,6 +12,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=4L7xCD8AAAAJ&hl=en&oi=ao
+  - icon: cv
+    icon_pack: ai
+    link: uploads/Nguyen_Tuan.pdf
   - display:
       header: false
     link: mailto:tuan.nguyen@missouri.edu
