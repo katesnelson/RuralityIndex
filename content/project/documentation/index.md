@@ -9,9 +9,9 @@ weight: 65
 
 title: Documentation
 subtitle: ''
-
 content:
-	@@ -41,7 +41,7 @@ design:
+	@@ -41,7 +41,7 @@ 
+design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
