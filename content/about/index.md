@@ -57,6 +57,7 @@ This work is derived from a research project by Nelson and Nguyen (2023).
 For the full publication, see:
  - Nelson, K. S., &amp; Nguyen, T. D. (2023). Community assets and relative rurality index: a multi-dimensional measure of rurality. Journal of Rural Studies, 97,
 322-333. https://doi.org/10.1016/j.jrurstud.2022.12.025
+
 The original CARR dataset can be found at:
 - Nelson, K., & Nguyen, T. (2022). Community assets and relative rurality index [Data set]. In Community assets and relative rurality index: A multi-dimensional measure of rurality (1.0.0, Vol. 97, pp. 322–333). Zenodo. https://doi.org/10.5281/zenodo.8072187
    
