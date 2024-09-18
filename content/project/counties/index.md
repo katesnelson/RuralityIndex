@@ -17,7 +17,7 @@ image:
 ---
 
 
-The county CARR data in .csv and STATA .dta format and the metadata for these files can be downloaded [here](https://ruralityindex.netlify.app/uploads/county_carr_public_rescale_091324.zip). This data will also be published and available for download at the long-term data repository [Zenodo](https://zenodo.org/records/8072187).
+The county CARR data in .csv and STATA .dta format, and the metadata for these files, can be downloaded [here](https://ruralityindex.netlify.app/uploads/county_carr_public_rescale_091324.zip). This data will also be published and available for download at the long-term data repository [Zenodo](https://zenodo.org/records/8072187).
 
 A file containing the basic descriptive analysis and visualizations provided below can be downloaded [here](https://ruralityindex.netlify.app/uploads/countycarr.html).
 
