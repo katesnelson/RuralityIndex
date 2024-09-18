@@ -16,9 +16,9 @@ image:
   preview_only: false
 ---
 
-The Census Tract CARR data in .csv and STATA .dta format and the metadata for these files can be downloaded at [this link that is not live yet](thisfakelink.com). This data is also published and available for download at the long-term data repository [Zenodo](thisfakelink.com).
+The Census Tract CARR data in .csv and STATA .dta format and the metadata for these files can be downloaded at [this link that is not live yet](https://ruralityindex.netlify.app/uploads/tract_carr_public_09132024.zip). This data will also be published and available for download at the long-term data repository [Zenodo](https://zenodo.org/records/8072187).
 
-A file containing the basic descriptive analysis and visualizations provided below can be downloaded [here](https://yetanotherfakelink.com).
+A file containing the basic descriptive analysis and visualizations provided below can be downloaded [here](https://ruralityindex.netlify.app/uploads/tractcarr).
 
 
 <!DOCTYPE html>
