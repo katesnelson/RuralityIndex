@@ -9,16 +9,16 @@ links:
   - icon: open-access
     icon_pack: ai
     name: Relevant publications
-    url: tag/strategic-retreat
+    url: tag/rurality
 image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
 
-The ZIP code CARR data in .csv and STATA .dta format and the metadata for these files can be downloaded at [this link that is not live yet](thisfakelink.com). This data is also published and available for download at the long-term data repository [Zenodo](thisfakelink.com).
+The ZIP code CARR data in .csv and STATA .dta format, and the metadata for these files, can be downloaded [here](https://ruralityindex.netlify.app/uploads/zipcode_carr_public_09132024.zip). This data will also be published and available for download at the long-term data repository [Zenodo](https://zenodo.org/records/8072187).
 
-A file containing the basic descriptive analysis and visualizations provided below can be downloaded [here](https://yetanotherfakelink.com).
+A file containing the basic descriptive analysis and visualizations provided below can be downloaded [here](https://ruralityindex.netlify.app/uploads/zipcodecarr).
 
 
 <!DOCTYPE html>
