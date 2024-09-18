@@ -9,7 +9,7 @@ links:
   - icon: open-access
     icon_pack: ai
     name: Relevant publications
-    url: tag/strategic-retreat
+    url: tag/rurality
 image:
   filename: featured.jpg
   focal_point: Smart
