@@ -16,9 +16,8 @@ image:
   preview_only: false
 ---
 
-A variant of the original CARR index (2019 edition)  was calculated for county boundaries using area-weighted averages of the original CARR index at the block group scale. 
 
-The county CARR data in .csv and STATA .dta format and the metadata for these files can be downloaded at [this link that is not live yet](thisfakelink.com). This data is also published and available for download at the long-term data repository [Zenodo](thisfakelink.com).
+The county CARR data in .csv and STATA .dta format and the metadata for these files can be downloaded [here](https://ruralityindex.netlify.app/uploads/county_carr_public_rescale_091324.zip). This data will also be published and available for download at the long-term data repository [Zenodo](https://zenodo.org/records/8072187).
 
 A file containing the basic descriptive analysis and visualizations provided below can be downloaded [here](https://ruralityindex.netlify.app/uploads/countycarr.html).
 
