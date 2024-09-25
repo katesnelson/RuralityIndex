@@ -109,7 +109,7 @@ map:
   zoom: 15
 marketing:
   google_analytics: 
-    ID: G-3J3GHSLHWE
+    ID: 'G-3J3GHSLHWE'
   google_tag_manager: ''
   google_site_verification: ''
   baidu_site_verification: ''
