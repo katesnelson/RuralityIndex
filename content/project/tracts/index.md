@@ -3088,24 +3088,7 @@ vertical-align: -.125em;
   </div>
     
   
-  <div class="quarto-title-meta">
 
-      <div>
-      <div class="quarto-title-meta-heading">Author</div>
-      <div class="quarto-title-meta-contents">
-               <p>Kate Nelson &amp; Tuan Nguyen </p>
-            </div>
-    </div>
-      
-      <div>
-      <div class="quarto-title-meta-heading">Published</div>
-      <div class="quarto-title-meta-contents">
-        <p class="date">September 27, 2024</p>
-      </div>
-    </div>
-    
-      
-    </div>
     
   
   </header><div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
