@@ -31,7 +31,7 @@ A file containing the basic descriptive analysis and visualizations provided bel
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Kate Nelson &amp; Tuan Nguyen">
-<meta name="dcterms.date" content="2024-09-12">
+<meta name="dcterms.date" content="2024-09-27">
 
 <title>County CARR Description</title>
 <style>
@@ -3089,7 +3089,7 @@ vertical-align: -.125em;
   </div>
     
   
-
+ 
     
   
   </header><div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
@@ -3098,7 +3098,9 @@ vertical-align: -.125em;
 
 
 
-<section id="county-carr" class="level2">
+
+
+
 <p>To operationalize CARR for county boundaries we computed area-weighted averages of the original block-group scale CARR. In addition to presenting the area weighted average CARR scores, we also independently calculated area weighted averages for each constituent component of CARR. U.S. census urban-rural categorizations and USDA ERS rural urban continuum code (RUCC) classifications were summarized by taking the mode across all block groups intersecting with a county. <em>Note: RUCC was originally constructed for U.S. counties, so in this case the modal operation should simply return the original RUCC class.</em></p>
 <p>The values of the county CARR scores fall within the original range of CARR scores (0-1), where a value of 0 means very urban with high concentrations of services and amenities and a value of 1 means very rural with low concentrations of services and amenities.</p>
 <p>However, the distribution of CARR by counties is shifted towards higher scores and the range is compressed (as should be expected from the aggregation process). The minimum score is <strong>0.41</strong>, the maximum score is <strong>0.87</strong>, and the mean score is <strong>0.57</strong>. (In the original CARR the mean value was ~0.5.)</p>
@@ -3151,7 +3153,7 @@ vertical-align: -.125em;
 </div>
 </div>
 </div>
-<p>The three accessibility components’ spatial distributions are consistent with the original CARR as well. Larger values of the first accessibility factor are associated with greater distances to amenities. Larger values of the second accessibility factor are associated with increased distance to essential services. Larger values of the third accessibility factor are associated with greater distances to both amenities and natural resource extraction (e.g. peri-urban).</p>
+<p>The three accessibility components’ spatial distributions are consistent with the original CARR as well. Larger values of the first accessibility factor are associated with greater distances to amenities. Larger values of the second accessibility factor are associated with increased distance to essential services. Larger values of the third accessibility factor are associated with greater distances to both amenities and natural resource extraction (e.g. peri-urban).</p>
 <div class="cell">
 <div class="cell-output-display">
 <div>
@@ -3202,7 +3204,14 @@ vertical-align: -.125em;
 
 </section>
 
-</section></div></main>
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-nelson2023a" class="csl-entry" role="listitem">
+Nelson, Katherine S., and Tuan D. Nguyen. 2023. <span>“Community Assets and Relative Rurality Index: A Multi-Dimensional Measure of Rurality.”</span> <em>Journal of Rural Studies</em> 97 (January): 322–33. <a href="https://doi.org/10.1016/j.jrurstud.2022.12.025">https://doi.org/10.1016/j.jrurstud.2022.12.025</a>.
+</div>
+<div id="ref-nelson2022" class="csl-entry" role="listitem">
+Nelson, Katherine, and Tuan Nguyen. 2022. <span>“Community Assets and Relative Rurality Index.”</span> Zenodo. <a href="https://doi.org/10.5281/ZENODO.8072187">https://doi.org/10.5281/ZENODO.8072187</a>.
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></div></div></section></div></main>
 <!-- /main column -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
