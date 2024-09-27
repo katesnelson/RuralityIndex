@@ -30,9 +30,9 @@ A file containing the basic descriptive analysis and visualizations provided bel
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Kate Nelson &amp; Tuan Nguyen">
-<meta name="dcterms.date" content="2024-09-12">
+<meta name="dcterms.date" content="2024-09-27">
 
-<title> School District CARR Description</title>
+<title>School District CARR Description</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -3088,12 +3088,13 @@ vertical-align: -.125em;
   </div>
     
   
-
+  
     
   
   </header><div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
 
 <main class="content quarto-banner-title-block" id="quarto-document-content">
+
 
 
 
@@ -3150,7 +3151,7 @@ vertical-align: -.125em;
 </div>
 </div>
 </div>
-<p>The three accessibility components’ spatial distributions are consistent with the original CARR as well. Larger values of the first accessibility factor are associated with greater distances to amenities. Larger values of the second accessibility factor are associated with increased distance to essential services. Larger values of the third accessibility factor are associated with greater distances to both amenities and natural resource extraction (e.g. peri-urban).</p>
+<p>The three accessibility components’ spatial distributions are consistent with the original CARR as well. Larger values of the first accessibility factor are associated with greater distances to amenities. Larger values of the second accessibility factor are associated with increased distance to essential services. Larger values of the third accessibility factor are associated with greater distances to both amenities and natural resource extraction (e.g. peri-urban).</p>
 <div class="cell">
 <div class="cell-output-display">
 <div>
@@ -3202,8 +3203,19 @@ vertical-align: -.125em;
 </section>
 
 
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-nelson2023a" class="csl-entry" role="listitem">
+Nelson, Katherine S., and Tuan D. Nguyen. 2023. <span>“Community Assets and Relative Rurality Index: A Multi-Dimensional Measure of Rurality.”</span> <em>Journal of Rural Studies</em> 97 (January): 322–33. <a href="https://doi.org/10.1016/j.jrurstud.2022.12.025">https://doi.org/10.1016/j.jrurstud.2022.12.025</a>.
+</div>
+<div id="ref-nelson2022" class="csl-entry" role="listitem">
+Nelson, Katherine, and Tuan Nguyen. 2022. <span>“Community Assets and Relative Rurality Index.”</span> Zenodo. <a href="https://doi.org/10.5281/ZENODO.8072187">https://doi.org/10.5281/ZENODO.8072187</a>.
+</div>
+</div></section><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
 
-</section></div></main>
+<ol>
+<li id="fn1"><p>Geverdt, D. (2019). Education Demographic and Geographic Estimates Program (EDGE): Composite School District Boundaries File Documentation, 2018 (NCES 2017-035). U.S. Department of Education. Washington, DC: National Center for Education Statistics. Retrieved [date] from http://nces.ed.gov/pubsearch.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></div></div></section></div></main>
 <!-- /main column -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
