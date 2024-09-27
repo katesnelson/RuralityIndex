@@ -3,6 +3,7 @@ title: "Conceptualizing Rurality in Education Policy: Comparative Evidence from
   Missouri"
 publication_types:
   - "0"
+  - "2"
 authors:
   - Burrola
   - A.
