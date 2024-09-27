@@ -47,19 +47,21 @@ intuitive and consistent approach to evaluating rurality.
 
 ## Contact Info/Requests
 We will continue to work on collecting various measures of community assets and relative
-rurality and will update our CARR index over time. If you have any questions, please contact Kate
+rurality and will update our CARR index over time. If you have any questions, or are interested in collaborating, please contact Kate
 Nelson, Ph.D., University of Missouri, via email: katherinenelson@missouri.edu or Tuan D.
-Nguyen, Ph.D, University of Missouri, via email: [tuan.nguyen@missouri.edu](mailto:tuan.nguyen@missouri.edu). If there are any
-errors with the data, please email us.
+Nguyen, Ph.D, University of Missouri, via email: [tuan.nguyen@missouri.edu](mailto:tuan.nguyen@missouri.edu). If you find any errors in the data or documentation, please email us.
 
 ## Acknowledgement
 This work is derived from a research project by Nelson and Nguyen (2023).
+
 For the full publication, see:
  - Nelson, K. S., &amp; Nguyen, T. D. (2023). Community assets and relative rurality index: a multi-dimensional measure of rurality. Journal of Rural Studies, 97,
 322-333. https://doi.org/10.1016/j.jrurstud.2022.12.025
 
 The original CARR dataset can be found at:
 - Nelson, K., & Nguyen, T. (2022). Community assets and relative rurality index [Data set]. In Community assets and relative rurality index: A multi-dimensional measure of rurality (1.0.0, Vol. 97, pp. 322–333). Zenodo. https://doi.org/10.5281/zenodo.8072187
+
+R scripts relevant to the development of CARR and the 2023 publication in the *Journal of Rural Studies* can be found at [Nelson's github repo for the project](https://github.com/katesnelson/CARR).
    
-We thank XXX for their helpful comments and suggestions. Any errors remain our sole
+We welcome comments and suggestions. Any errors remain our sole
 responsibility.
