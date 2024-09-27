@@ -30,9 +30,9 @@ A file containing the basic descriptive analysis and visualizations provided bel
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Kate Nelson &amp; Tuan Nguyen">
-<meta name="dcterms.date" content="2024-09-12">
+<meta name="dcterms.date" content="2024-09-27">
 
-<title> Tribal Boundaries CARR Description</title>
+<title>Tribal Boundaries CARR Description</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -3088,12 +3088,11 @@ vertical-align: -.125em;
   </div>
     
   
-
     
-  
   </header><div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
 
 <main class="content quarto-banner-title-block" id="quarto-document-content">
+
 
 
 <p>To operationalize CARR for tribal boundaries we computed area-weighted averages of the original block-group scale CARR. U.S. <a href="https://www.epa.gov/geospatial/guidance-using-tribal-boundaries-areas-and-names-resources">Tribal boundary areas published by the U.S. Environmental Protection Agency (EPA)</a> representing American Indian reservation, tribal statistical areas, and off-reservation land trusts was used.</p>
@@ -3200,9 +3199,14 @@ vertical-align: -.125em;
 
 </section>
 
-
-
-</section></div></main>
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-nelson2023a" class="csl-entry" role="listitem">
+Nelson, Katherine S., and Tuan D. Nguyen. 2023. <span>“Community Assets and Relative Rurality Index: A Multi-Dimensional Measure of Rurality.”</span> <em>Journal of Rural Studies</em> 97 (January): 322–33. <a href="https://doi.org/10.1016/j.jrurstud.2022.12.025">https://doi.org/10.1016/j.jrurstud.2022.12.025</a>.
+</div>
+<div id="ref-nelson2022" class="csl-entry" role="listitem">
+Nelson, Katherine, and Tuan Nguyen. 2022. <span>“Community Assets and Relative Rurality Index.”</span> Zenodo. <a href="https://doi.org/10.5281/ZENODO.8072187">https://doi.org/10.5281/ZENODO.8072187</a>.
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></div></div></section></div></main>
 <!-- /main column -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
