@@ -20,7 +20,6 @@ The ZIP code CARR data in .csv and STATA .dta format, and the metadata for these
 
 A file containing the basic descriptive analysis and visualizations provided below can be downloaded [here](https://ruralityindex.netlify.app/uploads/zipcodecarr).
 
-
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
@@ -30,9 +29,9 @@ A file containing the basic descriptive analysis and visualizations provided bel
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Kate Nelson &amp; Tuan Nguyen">
-<meta name="dcterms.date" content="2024-09-12">
+<meta name="dcterms.date" content="2024-09-27">
 
-<title> ZIP Code CARR Description</title>
+<title>ZIP Code CARR Description</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -3088,12 +3087,14 @@ vertical-align: -.125em;
   </div>
     
   
-
-    
+  
   
   </header><div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
 
 <main class="content quarto-banner-title-block" id="quarto-document-content">
+
+
+
 
 
 <p>To operationalize CARR for ZIP code boundaries we computed area-weighted averages of the original block-group scale CARR. U.S. <a href="https://www.census.gov/programs-surveys/geography/guidance/geo-areas/zctas.html">Census Bureau ZIP code tabulation areas (ZCTAs)</a> were used to approximate ZIP code boundaries. A ZCTA to ZIP code crosswalk dataset<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> was used to associate ZCTAs to postal ZIP codes. <em>Note that the UDS Mapper website, including the crosswalk dataset, are not functioning as of September, 2024. However, additional crosswalks can be found at <a href="https://github.com/censusreporter/acs-aggregate/blob/master/crosswalks/zip_to_zcta/ZIP_ZCTA_README.md">GitHub</a> and via the <a href="https://www.huduser.gov/portal/datasets/usps_crosswalk.html">US Department of Housing and Urban Development</a></em>.</p>
@@ -3201,8 +3202,19 @@ vertical-align: -.125em;
 </section>
 
 
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-nelson2023a" class="csl-entry" role="listitem">
+Nelson, Katherine S., and Tuan D. Nguyen. 2023. <span>“Community Assets and Relative Rurality Index: A Multi-Dimensional Measure of Rurality.”</span> <em>Journal of Rural Studies</em> 97 (January): 322–33. <a href="https://doi.org/10.1016/j.jrurstud.2022.12.025">https://doi.org/10.1016/j.jrurstud.2022.12.025</a>.
+</div>
+<div id="ref-nelson2022" class="csl-entry" role="listitem">
+Nelson, Katherine, and Tuan Nguyen. 2022. <span>“Community Assets and Relative Rurality Index.”</span> Zenodo. <a href="https://doi.org/10.5281/ZENODO.8072187">https://doi.org/10.5281/ZENODO.8072187</a>.
+</div>
+</div></section><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
 
-</section></div></main>
+<ol>
+<li id="fn1"><p>John Snow, Inc. “ZIP Code to ZCTA Crosswalk.” UDS Mapper, 2019. https://udsmapper.org/wp-content/uploads/2020/09/Zip_to_zcta_crosswalk_2020.xlsx.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></div></div></section></div></main>
 <!-- /main column -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
